@@ -5,6 +5,6 @@ LebowskiApi::Application.routes.draw do
   end
 
   root to: 'application#redirect'
-  match "/404" => "errors#not_found"
-  match "/500" => "errors#exception"
+  get "/404" => "errors#not_found"
+  get "/500" => "errors#exception"
 end
