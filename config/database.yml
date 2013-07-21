@@ -17,6 +17,8 @@ test:
 
 production:
   adapter: postgresql
-  database: lebowski
+  database: lebowski-production
   pool: 5
   timeout: 5000
+  username: lebowski
+  password: HQAI32t$6T$$@dA134kfjd9888eke89d
