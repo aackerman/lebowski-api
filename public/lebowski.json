@@ -1,0 +1,4260 @@
+{
+  "quotes": [
+    {
+      "name": "The Stranger",
+      "text": "A way out west there was a fella, fella I want to tell you about, fella by the name of Jeff Lebowski.  At least, that was the handle his lovin' parents gave him, but he never had much use for it himself.  This Lebowski, he called himself the Dude. Now, Dude, that's a name no one would self-apply where I come from.  But then, there was a lot about the Dude that didn't make a whole lot of sense to me.  And a lot about where he lived, like- wise.  But then again, maybe that's why I found the place s'durned innarestin'."
+    },
+    {
+      "name": "The Stranger",
+      "text": "They call Los Angeles the City of Angels. I didn't find it to be that exactly, but I'll allow as there are some nice folks there. 'Course, I can't say I seen London, and I never been to France, and I ain't never seen no queen in her damn undies as the fella says. But I'll tell you what, after seeing Los Angeles and thisahere story I'm about to unfold-- wal, I guess I seen somethin' ever' bit as stupefyin' as ya'd see in any a those other places, and in English too, so I can die with a smile on my face without feelin' like the good Lord gypped me."
+    },
+    {
+      "name": "The Stranger",
+      "text": "Now this story I'm about to unfold took place back in the early nineties-- just about the time of our conflict with Sad'm and the Eye-rackies. I only mention it 'cause some- times there's a man--I won't say a hee-ro, 'cause what's a hee-ro?--but sometimes there's a man."
+    },
+    {
+      "name": "The Stranger",
+      "text": "And I'm talkin' about the Dude here-- sometimes there's a man who, wal, he's the man for his time'n place, he fits right in there--and that's the Dude, in Los Angeles."
+    },
+    {
+      "name": "George Bush",
+      "text": "This aggression will not stand. . . This will not stand!"
+    },
+    {
+      "name": "The Stranger",
+      "text": "...and even if he's a lazy man, and the Dude was certainly that--quite possibly the laziest in Los Angeles County."
+    },
+    {
+      "name": "The Stranger",
+      "text": "...which would place him high in the runnin' for laziest worldwide--but sometimes there's a man. . . sometimes there's a man."
+    },
+    {
+      "name": "The Stranger",
+      "text": "Wal, I lost m'train of thought here. But--aw hell, I done innerduced him enough."
+    },
+    {
+      "name": "Blonde Thug",
+      "text": "We want that money, Lebowski. Bunny said you were good for it."
+    },
+    {
+      "name": "Blonde Thug",
+      "text": "Where's the money, Lebowski!"
+    },
+    {
+      "name": "Blonde Thug",
+      "text": "Where's the money, Lebowski!"
+    },
+    {
+      "name": "Blonde Thug",
+      "text": "WHERE'S THE FUCKING MONEY, SHITHEAD!"
+    },
+    {
+      "name": "The Dude",
+      "text": "It's uh, it's down there somewhere. Lemme take another look."
+    },
+    {
+      "name": "Blonde Thug",
+      "text": "Don't fuck with us. If your wife owes money to Jackie Treehorn, that means you owe money to Jackie Treehorn."
+    },
+    {
+      "name": "Woo",
+      "text": "Ever thus to deadbeats, Lebowski."
+    },
+    {
+      "name": "The Dude",
+      "text": "Oh, man.  Don't do--"
+    },
+    {
+      "name": "Blonde Thug",
+      "text": "You see what happens? You see what happens, Lebowski?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Look, nobody calls me Lebowski. You got the wrong guy. I'm the Dude, man."
+    },
+    {
+      "name": "Blonde Thug",
+      "text": "Your name is Lebowski. Your wife is Bunny."
+    },
+    {
+      "name": "The Dude",
+      "text": "Bunny? Look, moron."
+    },
+    {
+      "name": "The Dude",
+      "text": "You see a wedding ring? Does this place look like I'm fucking married? The toilet seat's up!"
+    },
+    {
+      "name": "Blonde Thug",
+      "text": "The fuck is this?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Obviously you're not a golfer."
+    },
+    {
+      "name": "Blonde Thug",
+      "text": "Woo?"
+    },
+    {
+      "name": "Woo",
+      "text": "Yeah?"
+    },
+    {
+      "name": "Blonde Thug",
+      "text": "Wasn't this guy supposed to be a millionaire?"
+    },
+    {
+      "name": "Woo",
+      "text": "Uh? Fuck."
+    },
+    {
+      "name": "Blonde Thug",
+      "text": "What do you think?"
+    },
+    {
+      "name": "Woo",
+      "text": "He looks like a fuckin' loser."
+    },
+    {
+      "name": "The Dude",
+      "text": "Hey.  At least I'm housebroken."
+    },
+    {
+      "name": "Woo",
+      "text": "Fuckin' waste of time."
+    },
+    {
+      "name": "Blonde Thug",
+      "text": "Thanks a lot, asshole."
+    },
+    {
+      "name": "Donny",
+      "text": "Hot damn, I'm throwin' rocks tonight. Mark it, Dude."
+    },
+    {
+      "name": "Walter",
+      "text": "This was a valued rug. This was, uh--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah man, it really tied the room together--"
+    },
+    {
+      "name": "Walter",
+      "text": "This was a valued, uh."
+    },
+    {
+      "name": "Donny",
+      "text": "What tied the room together, Dude?"
+    },
+    {
+      "name": "Walter",
+      "text": "Were you listening to the story, Donny?"
+    },
+    {
+      "name": "Donny",
+      "text": "What--"
+    },
+    {
+      "name": "Walter",
+      "text": "Were you listening to the Dude's story?"
+    },
+    {
+      "name": "Donny",
+      "text": "I was bowling--"
+    },
+    {
+      "name": "Walter",
+      "text": "So you have no frame of reference, Donny. You're like a child who wanders in in the middle of a movie and wants to know--"
+    },
+    {
+      "name": "The Dude",
+      "text": "What's your point, Walter?"
+    },
+    {
+      "name": "Walter",
+      "text": "There's no fucking reason--here's my point, Dude--there's no fucking reason--"
+    },
+    {
+      "name": "Donny",
+      "text": "Yeah Walter, what's your point?"
+    },
+    {
+      "name": "Walter",
+      "text": "Huh?"
+    },
+    {
+      "name": "The Dude",
+      "text": "What's the point of--we all know who was at fault, so what the fuck are you talking about?"
+    },
+    {
+      "name": "Walter",
+      "text": "Huh? No! What the fuck are you talking--I'm not--we're talking about unchecked aggression here--"
+    },
+    {
+      "name": "Donny",
+      "text": "What the fuck is he talking about?"
+    },
+    {
+      "name": "The Dude",
+      "text": "My rug."
+    },
+    {
+      "name": "Walter",
+      "text": "Forget it, Donny. You're out of your element."
+    },
+    {
+      "name": "The Dude",
+      "text": "This Chinaman who peed on my rug, I can't go give him a bill so what the fuck are you talking about?"
+    },
+    {
+      "name": "Walter",
+      "text": "What the fuck are you talking about?! This Chinaman is not the issue! I'm talking about drawing a line in the sand, Dude.  Across this line you do not, uh--and also, Dude, Chinaman is not the preferred, uh. . . Asian- American.  Please."
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter, this is not a guy who built the rail- roads, here, this is a guy who peed on my--"
+    },
+    {
+      "name": "Walter",
+      "text": "What the fuck are you--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter, he peed on my rug--"
+    },
+    {
+      "name": "Donny",
+      "text": "He peed on the Dude's rug--"
+    },
+    {
+      "name": "Walter",
+      "text": "YOU'RE OUT OF YOUR ELEMENT! This Chinaman is not the issue, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "So who--"
+    },
+    {
+      "name": "Walter",
+      "text": "Jeff Lebowski. Come on. This other Jeffrey Lebowski. The millionaire. He's gonna be easier to find anyway than these two, uh. these two. . . And he has the wealth, uh, the resources obviously, and there is no reason, no FUCKING reason, why his wife should go out and owe money and they pee on your rug. Am I wrong?"
+    },
+    {
+      "name": "The Dude",
+      "text": "No, but--"
+    },
+    {
+      "name": "Walter",
+      "text": "Am I wrong!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, but--"
+    },
+    {
+      "name": "Walter",
+      "text": "Okay. That, uh. That rug really tied the room together, did it not?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Fuckin' A."
+    },
+    {
+      "name": "Donny",
+      "text": "And this guy peed on it."
+    },
+    {
+      "name": "Walter",
+      "text": "Donny! Please!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, I could find this Lebowski guy--"
+    },
+    {
+      "name": "Donny",
+      "text": "His name is Lebowski? That's your name, Dude!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, this is the guy, this guy should compensate me for the fucking rug. I mean his wife goes out and owes money and they pee on my rug."
+    },
+    {
+      "name": "Walter",
+      "text": "Thaaat's right Dude; they pee on your fucking Rug."
+    },
+    {
+      "name": "Brandt",
+      "text": "And this is the study. You can see the various commendations, honorary degrees, et cetera."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yes, uh, very impressive."
+    },
+    {
+      "name": "Brandt",
+      "text": "Please, feel free to inspect them."
+    },
+    {
+      "name": "The Dude",
+      "text": "I'm not really, uh."
+    },
+    {
+      "name": "Brandt",
+      "text": "Please! Please!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Uh-huh."
+    },
+    {
+      "name": "Brandt",
+      "text": "That's the key to the city of Pasadena, which Mr. Lebowski was given two years ago in recognition of his various civic, uh."
+    },
+    {
+      "name": "The Dude",
+      "text": "Uh-huh."
+    },
+    {
+      "name": "Brandt",
+      "text": "That's a Los Angeles Chamber of Commerce Business Achiever award, which is given--not necessarily given every year!  Given only when there's a worthy, somebody especially--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Hey, is this him with Nancy?"
+    },
+    {
+      "name": "Brandt",
+      "text": "That is indeed Mr. Lebowski with the first lady, yes, taken when--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Lebowski on the right?"
+    },
+    {
+      "name": "Brandt",
+      "text": "Of course, Mr. Lebowski on the right, Mrs.  Reagan on the left, taken when--"
+    },
+    {
+      "name": "The Dude",
+      "text": "He's handicapped, huh?"
+    },
+    {
+      "name": "Brandt",
+      "text": "Mr. Lebowski is disabled, yes. And this picture was taken when Mrs. Reagan was first lady of the nation, yes, yes? Not of California."
+    },
+    {
+      "name": "Brandt",
+      "text": "And in fact he met privately with the President, though unfortunately there wasn't time for a photo opportunity."
+    },
+    {
+      "name": "The Dude",
+      "text": "Nancy's pretty good."
+    },
+    {
+      "name": "Brandt",
+      "text": "Wonderful woman.  We were very--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Are these."
+    },
+    {
+      "name": "Brandt",
+      "text": "These are Mr. Lebowski's children, so to speak--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Different mothers, huh?"
+    },
+    {
+      "name": "Brandt",
+      "text": "No, they--"
+    },
+    {
+      "name": "The Dude",
+      "text": "I guess he's pretty, uh, racially pretty cool--"
+    },
+    {
+      "name": "Brandt",
+      "text": "They're not his, heh-heh, they're not literally his children; they're the Little Lebowski Urban Achievers, inner-city children of promise but without the--"
+    },
+    {
+      "name": "The Dude",
+      "text": "I see."
+    },
+    {
+      "name": "Brandt",
+      "text": "--without  the means  for higher education, so Mr. Lebowski  has committed  to sending  all of them to college."
+    },
+    {
+      "name": "The Dude",
+      "text": "Jeez. Think he's got room for one more?"
+    },
+    {
+      "name": "Brandt",
+      "text": "One--oh!  Heh-heh. You never went to college?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Well, yeah I did, but I spent most of my time occupying various, um, administration buildings--"
+    },
+    {
+      "name": "Brandt",
+      "text": "Heh-heh--"
+    },
+    {
+      "name": "The Dude",
+      "text": "--smoking thai-stick, breaking into the ROTC--"
+    },
+    {
+      "name": "Brandt",
+      "text": "Yes, heh--"
+    },
+    {
+      "name": "The Dude",
+      "text": "--and bowling. I'll tell you the truth, Brandt, I don't remember most of it.--Jeez! Fuck me!"
+    },
+    {
+      "name": "Lebowski",
+      "text": "Okay sir, you're a Lebowski, I'm a Lebowski, that's terrific, I'm very busy so what can I do for you?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Well sir, it's this rug I have, really tied the room together-"
+    },
+    {
+      "name": "Lebowski",
+      "text": "You told Brandt on the phone, he told me. So where do I fit in?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Well they were looking for you, these two guys, they were trying to--"
+    },
+    {
+      "name": "Lebowski",
+      "text": "I'll say it again, all right? You told Brandt. He told me. I know what happened. Yes? Yes?"
+    },
+    {
+      "name": "The Dude",
+      "text": "So you know they were trying to piss on your rug--"
+    },
+    {
+      "name": "Lebowski",
+      "text": "Did I urinate on your rug?"
+    },
+    {
+      "name": "The Dude",
+      "text": "You mean, did you personally come and pee on my--"
+    },
+    {
+      "name": "Lebowski",
+      "text": "Hello! Do you speak English? Parla usted Inglese? I'll say it again. Did I urinate on your rug?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Well no, like I said, Woo peed on the rug--"
+    },
+    {
+      "name": "Lebowski",
+      "text": "Hello! Hello! So every time--I just want to understand this, sir-- every time a rug is micturated upon in this fair city, I have to compensate the--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Come on, man, I'm not trying to scam anybody here, I'm just--"
+    },
+    {
+      "name": "Lebowski",
+      "text": "You're just looking for a handout like every other--are you employed, Mr. Lebowski?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Look, let me explain something. I'm not Mr. Lebowski; you're Mr. Lebowski. I'm the Dude. So that's what you call me. That, or Duder. His Dudeness. Or El Duderino, if, you know, you're not into the whole brevity thing--"
+    },
+    {
+      "name": "Lebowski",
+      "text": "Are you employed, sir?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Employed?"
+    },
+    {
+      "name": "Lebowski",
+      "text": "You don't go out and make a living dressed like that in the middle of a weekday."
+    },
+    {
+      "name": "The Dude",
+      "text": "Is this a--what day is this?"
+    },
+    {
+      "name": "Lebowski",
+      "text": "But I do work, so if you don't mind--"
+    },
+    {
+      "name": "The Dude",
+      "text": "No, look. I do mind. The Dude minds. This will not stand, ya know, this will not stand, man. I mean, if your wife owes--"
+    },
+    {
+      "name": "Lebowski",
+      "text": "My wife is not the issue here. I hope that my wife will someday learn to live on her allowance, which is ample, but if she doesn't, sir, that will be her problem, not mine, just as your rug is your problem, just as every bum's lot in life is his own responsibility regardless of whom he chooses to blame.  I didn't blame anyone for the loss of my legs, some chinaman in Korea took them from me but I went out and achieved anyway. I can't solve your problems, sir, only you can."
+    },
+    {
+      "name": "The Dude",
+      "text": "Ah fuck it."
+    },
+    {
+      "name": "Lebowski",
+      "text": "Sure! Fuck it! That's your answer! Tattoo it on your forehead! Your answer to everything! Your revolution is over, Mr. Lebowski! Condolences! The bums lost! ...My advice is, do what your parents did! Get a job, sir! The bums will always lose-- do you hear me, Lebowski? THE BUMS WILL ALWAYS--"
+    },
+    {
+      "name": "Brandt",
+      "text": "How was your meeting, Mr. Lebowski?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Okay. The old man told me to take any rug in the house."
+    },
+    {
+      "name": "Brandt",
+      "text": "Well, enjoy, and perhaps we'll see you again some time, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah sure, if I'm ever in the neighborhood, need to use the john."
+    },
+    {
+      "name": "Bunny",
+      "text": "Blow on them."
+    },
+    {
+      "name": "The Dude",
+      "text": "Huh?"
+    },
+    {
+      "name": "Bunny",
+      "text": "G'ahead. Blow."
+    },
+    {
+      "name": "The Dude",
+      "text": "You want me to blow on your toes?"
+    },
+    {
+      "name": "Bunny",
+      "text": "Uh-huh. . . I can't blow that far."
+    },
+    {
+      "name": "The Dude",
+      "text": "You sure he won't mind?"
+    },
+    {
+      "name": "Bunny",
+      "text": "Uli Kunkel doesn't care about anything. He's a nihilist."
+    },
+    {
+      "name": "The Dude",
+      "text": "That must be tiring"
+    },
+    {
+      "name": "Bunny",
+      "text": "You're not blowing."
+    },
+    {
+      "name": "Brandt",
+      "text": "Our guest has to be getting along, Mrs. Lebowski."
+    },
+    {
+      "name": "The Dude",
+      "text": "You're Bunny?"
+    },
+    {
+      "name": "Bunny",
+      "text": "I'll suck your cock for a thousand dollars."
+    },
+    {
+      "name": "Brandt",
+      "text": "Ha-ha-ha-ha! Wonderful woman. Very free-spirited. We're all very fond of her."
+    },
+    {
+      "name": "Bunny",
+      "text": "Brandt can't watch though. Or he has to pay a hundred."
+    },
+    {
+      "name": "Brandt",
+      "text": "Ha-ha-ha-ha-ha! That's marvelous."
+    },
+    {
+      "name": "The Dude",
+      "text": "I'm just gonna find a cash machine."
+    },
+    {
+      "name": "Walter",
+      "text": "Way to go, Dude. If you will it, it is no dream."
+    },
+    {
+      "name": "The Dude",
+      "text": "You're fucking twenty minutes late. What the fuck is that?"
+    },
+    {
+      "name": "Walter",
+      "text": "Theodore Herzel."
+    },
+    {
+      "name": "The Dude",
+      "text": "Huh?"
+    },
+    {
+      "name": "Walter",
+      "text": "State of Israel.  If you will it, Dude, it is no--"
+    },
+    {
+      "name": "The Dude",
+      "text": "What the fuck're you talking about? The carrier. What's in the fucking carrier?"
+    },
+    {
+      "name": "Walter",
+      "text": "Huh? Oh--Cynthia's Pomeranian. Can't leave him home alone or he eats the furniture."
+    },
+    {
+      "name": "The Dude",
+      "text": "What the fuck are you--"
+    },
+    {
+      "name": "Walter",
+      "text": "I'm saying, Cynthia's Pomeranian. I'm looking after it while Cynthia and Marty Ackerman are in Hawaii."
+    },
+    {
+      "name": "The Dude",
+      "text": "You brought a fucking Pomeranian bowling?"
+    },
+    {
+      "name": "Walter",
+      "text": "What do you mean 'brought it bowling'? I didn't rent it shoes. I'm not buying it a fucking beer. He's not gonna take your fucking turn, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "Hey, man, if my fucking ex-wife asked me to take care of her fucking dog while she and her boyfriend went to Honolulu, I'd tell her to go fuck herself.  Why can't she board it?"
+    },
+    {
+      "name": "Walter",
+      "text": "First of all, Dude, you don't have an ex, secondly, it's a fucking show dog with fucking papers. You can't board it. It gets upset, its hair falls out."
+    },
+    {
+      "name": "The Dude",
+      "text": "Hey man--"
+    },
+    {
+      "name": "Walter",
+      "text": "Fucking dog has papers, Dude.--Over the line! Smokey Huh? Over the line, Smokey! I'm sorry. That's a foul."
+    },
+    {
+      "name": "Smokey",
+      "text": "Bullshit. Eight, Dude."
+    },
+    {
+      "name": "Walter",
+      "text": "Excuse me! Mark it zero. Next frame."
+    },
+    {
+      "name": "Smokey",
+      "text": "Bullshit. Walter!"
+    },
+    {
+      "name": "Walter",
+      "text": "This is not Nam. This is bowling. There are rules."
+    },
+    {
+      "name": "The Dude",
+      "text": "Come on Walter, it's just--it's Smokey. So his toe slipped over a little, it's just a game."
+    },
+    {
+      "name": "Walter",
+      "text": "This is a league game. This determines who enters the next round- robin, am I wrong?"
+    },
+    {
+      "name": "Smokey",
+      "text": "Yeah, but--"
+    },
+    {
+      "name": "Walter",
+      "text": "Am I wrong!?"
+    },
+    {
+      "name": "Smokey",
+      "text": "Yeah, but I wasn't over. Gimme the marker, Dude, I'm marking it an eight."
+    },
+    {
+      "name": "Walter",
+      "text": "Smokey my friend, you're entering a world of pain."
+    },
+    {
+      "name": "The Dude",
+      "text": "Hey Walter--"
+    },
+    {
+      "name": "Walter",
+      "text": "Mark that frame an eight, you're entering a world of pain."
+    },
+    {
+      "name": "Smokey",
+      "text": "I'm not--"
+    },
+    {
+      "name": "Walter",
+      "text": "A world of pain."
+    },
+    {
+      "name": "Smokey",
+      "text": "Look Dude, I don't hold with this. This guy is your partner, you should--"
+    },
+    {
+      "name": "Walter",
+      "text": "HAS THE WHOLE WORLD GONE CRAZY? AM I THE ONLY ONE HERE WHO GIVES A SHIT ABOUT THE RULES? MARK IT ZERO!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter, they're calling the cops, put the piece away."
+    },
+    {
+      "name": "Walter",
+      "text": "MARK IT ZERO!"
+    },
+    {
+      "name": "Smokey",
+      "text": "Walter--"
+    },
+    {
+      "name": "Walter",
+      "text": "YOU THINK I'M FUCKING AROUND HERE? MARK IT ZERO!!"
+    },
+    {
+      "name": "Smokey",
+      "text": "All right! There it is! It's fucking zero! You happy, you crazy fuck?"
+    },
+    {
+      "name": "Walter",
+      "text": "This is a league game, Smokey!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter, you can't do that. These guys're like me, they're pacificists. Smokey was a conscientious objector."
+    },
+    {
+      "name": "Walter",
+      "text": "You know Dude, I myself dabbled with pacifism at one point.  Not in Nam, of course--"
+    },
+    {
+      "name": "The Dude",
+      "text": "And you know Smokey has emotional problems!"
+    },
+    {
+      "name": "Walter",
+      "text": "You mean--beyond pacifism?"
+    },
+    {
+      "name": "The Dude",
+      "text": "He's fragile, man!  He's very fragile!"
+    },
+    {
+      "name": "Walter",
+      "text": "Huh. I did not know that. Well, it's water under the bridge. And we do enter the next round-robin, am I wrong?"
+    },
+    {
+      "name": "The Dude",
+      "text": "No, you're not wrong--"
+    },
+    {
+      "name": "Walter",
+      "text": "Am I wrong!"
+    },
+    {
+      "name": "The Dude",
+      "text": "You're not wrong, Walter, you're just an asshole."
+    },
+    {
+      "name": "Walter",
+      "text": "Okay then. We play Quintana and O'Brien next week. They'll be pushovers."
+    },
+    {
+      "name": "The Dude",
+      "text": "Just, just take it easy, Walter."
+    },
+    {
+      "name": "Walter",
+      "text": "That's your answer to everything, Dude. And let me point out--pacifism is not--look at our current situation with that camelfucker in Iraq-- pacifism is not something to hide behind."
+    },
+    {
+      "name": "The Dude",
+      "text": "Well, just take 't easy, man."
+    },
+    {
+      "name": "Walter",
+      "text": "I'm perfectly calm, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah?  Wavin' a gun around?!"
+    },
+    {
+      "name": "Walter",
+      "text": "Calmer than you are."
+    },
+    {
+      "name": "The Dude",
+      "text": "Just take it easy, man!"
+    },
+    {
+      "name": "Walter",
+      "text": "Calmer than you are."
+    },
+    {
+      "name": "Smokey",
+      "text": "Dude, this is Smokey. Look, I don't wanna be a hard-on about this, and I know it wasn't your fault, but I just thought it was fair to tell you that Gene and I will be submitting this to the League and asking them to set aside the round.  Or maybe forfeit it to us--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Shit!"
+    },
+    {
+      "name": "Smokey",
+      "text": "--so, like I say, just thought, you know, fair warning.  Tell Walter."
+    },
+    {
+      "name": "Brandt",
+      "text": "Mr. Lebowski, this is Brandt at, uh, well--at Mr. Lebowski's office. Please call us as soon as is convenient."
+    },
+    {
+      "name": "Fred Dynarski",
+      "text": "Mr. Lebowski, this is with the Southern Cal Bowling League. I just got a, an informal report, uh, that a uh, a member of your team, uh, Walter Sobchak, drew a loaded weapon during league play--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Hiya Marty."
+    },
+    {
+      "name": "Marty",
+      "text": "Dude, I finally got the venue I wanted.  I'm Performing my dance quintet--you know, my cycle--at Crane Jackson's Fountain Street Theatre on Tuesday night, and I'd love it if you came and gave me notes."
+    },
+    {
+      "name": "The Dude",
+      "text": "Sure Marty, I'll be there."
+    },
+    {
+      "name": "Marty",
+      "text": "Dude, uh, tomorrow is already the tenth."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, yeah I know. Okay."
+    },
+    {
+      "name": "Marty",
+      "text": "Just, uh, just slip the rent under my door."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, okay."
+    },
+    {
+      "name": "Brandt",
+      "text": "Mr. Lebowski, Brandt again.  Please do call us when you get in and I'll send the limo.  Let me assure you--I hope you're not avoiding this call because of the rug, which, I assure you, is not a problem.  We need your help and, uh--well we would very much like to see you.  Thank you. It's Brandt."
+    },
+    {
+      "name": "Brandt",
+      "text": "We've had some terrible news. Mr. Lebowski is in seclusion in the West Wing. Mr. Lebowski."
+    },
+    {
+      "name": "Lebowski",
+      "text": "It's funny.  I can look back on a life of achievement, on challenges met, competitors bested, obstacles overcome.  I've accomplished more than most men, and without the use of my legs.  What. . . What makes a man, Mr. Lebowski?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Dude."
+    },
+    {
+      "name": "Lebowski",
+      "text": "Huh?"
+    },
+    {
+      "name": "The Dude",
+      "text": "I don't know, sir."
+    },
+    {
+      "name": "Lebowski",
+      "text": "Is it. . . is it, being prepared to do the right thing? Whatever the price? Isn't that what makes a man?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Sure. That and a pair of testicles."
+    },
+    {
+      "name": "Lebowski",
+      "text": "You're joking. But perhaps you're right."
+    },
+    {
+      "name": "The Dude",
+      "text": "Mind if I smoke a jay?"
+    },
+    {
+      "name": "Lebowski",
+      "text": "Bunny Lebowski. . . She is the light of my life. Are you surprised at my tears, sir?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Fuckin' A."
+    },
+    {
+      "name": "Lebowski",
+      "text": "Strong men also cry. . . Strong men also cry. I received this fax this morning. As you can see, it is a ransom note. Sent by cowards.  Men who are unable to achieve on a level field of play. Men who will not sign their names. Weaklings. Bums."
+    },
+    {
+      "name": "The Dude",
+      "text": "Bummer."
+    },
+    {
+      "name": "Lebowski",
+      "text": "Brandt will fill you in on the details."
+    },
+    {
+      "name": "The Dude",
+      "text": ""
+    },
+    {
+      "name": "Brandt",
+      "text": "Mr. Lebowski is prepared to make a generous offer to you to act as courier once we get instructions for the money."
+    },
+    {
+      "name": "The Dude",
+      "text": "Why me, man?"
+    },
+    {
+      "name": "Brandt",
+      "text": "He suspects that the culprits might be the very people who, uh, soiled your rug, and you're in a unique position to confirm or, uh, disconfirm that suspicion."
+    },
+    {
+      "name": "The Dude",
+      "text": "So he thinks it's the carpet-pissers, huh?"
+    },
+    {
+      "name": "Brandt",
+      "text": "Well Dude, we just don't know."
+    },
+    {
+      "name": "The Dude",
+      "text": "Fucking Quintana--that creep can roll, man--"
+    },
+    {
+      "name": "Walter",
+      "text": "Yeah, but he's a fucking pervert, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "Huh?"
+    },
+    {
+      "name": "Walter",
+      "text": "The man is a sex offender. With a record. Spent six months in Chino for exposing himself to an eight-year-old."
+    },
+    {
+      "name": "The Dude",
+      "text": "Huh."
+    },
+    {
+      "name": "Walter",
+      "text": "When he moved down to Venice he had to go door-to-door to tell everyone he's a pederast."
+    },
+    {
+      "name": "Donny",
+      "text": "What's a pederast, Walter?"
+    },
+    {
+      "name": "Walter",
+      "text": "Shut the fuck up, Donny."
+    },
+    {
+      "name": "Walter",
+      "text": "Anyway. How much they offer you?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Twenty grand. And of course I still keep the rug."
+    },
+    {
+      "name": "Walter",
+      "text": "Just for making the hand-off?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah."
+    },
+    {
+      "name": "The Dude",
+      "text": "...They gave Dude a beeper, so whenever these guys call--"
+    },
+    {
+      "name": "Walter",
+      "text": "What if it's during a game?"
+    },
+    {
+      "name": "The Dude",
+      "text": "I told him if it was during league play--"
+    },
+    {
+      "name": "Donny",
+      "text": "If what's during league play?"
+    },
+    {
+      "name": "Walter",
+      "text": "Life does not stop and start at your convenience, you miserable piece of shit."
+    },
+    {
+      "name": "Donny",
+      "text": "What's wrong with Walter, Dude?"
+    },
+    {
+      "name": "The Dude",
+      "text": "I figure it's easy money, it's all pretty harmless. I mean she probably kidnapped herself."
+    },
+    {
+      "name": "Walter",
+      "text": "Huh?"
+    },
+    {
+      "name": "Donny",
+      "text": "What do you mean, Dude?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Rug-peers did not do this. I mean look at it. Young trophy wife. Marries a guy for money but figures he isn't giving her enough. She owes money all over town--"
+    },
+    {
+      "name": "Walter",
+      "text": "That...fucking...bitch!"
+    },
+    {
+      "name": "The Dude",
+      "text": "It's all a goddamn fake. Like Lenin said, look for the person who will benefit. And you will, uh, you know, you'll, uh, you know what I'm trying to say--"
+    },
+    {
+      "name": "Donny",
+      "text": "I am the Walrus."
+    },
+    {
+      "name": "Walter",
+      "text": "That fucking bitch!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah."
+    },
+    {
+      "name": "Donny",
+      "text": "I am the Walrus."
+    },
+    {
+      "name": "Walter",
+      "text": "Shut the fuck up, Donny! V.I. Lenin! Vladimir Ilyich Ulyanov!"
+    },
+    {
+      "name": "Donny",
+      "text": "What the fuck is he talking about?"
+    },
+    {
+      "name": "Walter",
+      "text": "That's fucking exactly what happened, Dude! That makes me fucking SICK!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, well, what do you care, Walter?"
+    },
+    {
+      "name": "Donny",
+      "text": "Yeah Dude, why is Walter so pissed off?"
+    },
+    {
+      "name": "Walter",
+      "text": "Those rich fucks! This whole fucking thing-- I did not watch my buddies die face down in the muck so that this fucking strumpet--"
+    },
+    {
+      "name": "The Dude",
+      "text": "I don't see any connection to Vietnam, Walter."
+    },
+    {
+      "name": "Walter",
+      "text": "Well, there isn't a literal connection, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter, face it, there isn't any connection. It's your roll."
+    },
+    {
+      "name": "Walter",
+      "text": "Have it your way. The point is--"
+    },
+    {
+      "name": "The Dude",
+      "text": "It's your roll--"
+    },
+    {
+      "name": "Walter",
+      "text": "The fucking point is--"
+    },
+    {
+      "name": "The Dude",
+      "text": "It's your roll."
+    },
+    {
+      "name": "The Jesus",
+      "text": "Are you ready to be fucked, man?"
+    },
+    {
+      "name": "The Jesus",
+      "text": "I see you rolled your way into the semis. Deos mio, man. Seamus and me, we're gonna fuck you up."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah well, that's just, ya know, like, your opinion, man."
+    },
+    {
+      "name": "The Jesus",
+      "text": "Let me tell you something, bendeco. You pull any your crazy shit with us, you flash a piece out on the lanes, I'll take it away from you and stick it up your ass and pull the fucking trigger til it goes 'click'."
+    },
+    {
+      "name": "The Dude",
+      "text": "Jesus."
+    },
+    {
+      "name": "The Jesus",
+      "text": "You said it, man. Nobody fucks with the Jesus."
+    },
+    {
+      "name": "Walter",
+      "text": "Eight-year-olds, Dude."
+    },
+    {
+      "name": "Brandt",
+      "text": "They called about eighty minutes ago. They want you to take the money and drive north on the 4 5. They'll call you on the portable phone with instructions in about forty minutes. One person only or I'd go with you. They were very clear on that: one person only.  What happened to your jaw?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Oh, nothin', you know."
+    },
+    {
+      "name": "Brandt",
+      "text": "Here's the money, and the phone. Please, Dude, follow whatever instructions they give."
+    },
+    {
+      "name": "The Dude",
+      "text": "Uh-huh."
+    },
+    {
+      "name": "Brandt",
+      "text": "Her life is in your hands."
+    },
+    {
+      "name": "The Dude",
+      "text": "Oh, man, don't say that.."
+    },
+    {
+      "name": "Brandt",
+      "text": "Mr. Lebowski asked me to repeat that: Her life is in your hands."
+    },
+    {
+      "name": "The Dude",
+      "text": "Shit."
+    },
+    {
+      "name": "Brandt",
+      "text": "Her life is in your hands, Dude. And report back to us as soon as it's done."
+    },
+    {
+      "name": "Walter",
+      "text": "Take the ringer.  I'll drive."
+    },
+    {
+      "name": "The Dude",
+      "text": "The what?"
+    },
+    {
+      "name": "Walter",
+      "text": "The ringer!  The ringer, Dude!  Have they called yet?"
+    },
+    {
+      "name": "The Dude",
+      "text": "What the hell is this?"
+    },
+    {
+      "name": "Walter",
+      "text": "My dirty undies. Laundry, Dude. The whites."
+    },
+    {
+      "name": "The Dude",
+      "text": "Agh--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter, I'm sure there's a reason you brought your dirty undies--"
+    },
+    {
+      "name": "Walter",
+      "text": "Thaaaat's right, Dude. The weight. The ringer cannot look empty."
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter--what the fuck are you thinking?"
+    },
+    {
+      "name": "Walter",
+      "text": "Well you're right, Dude, I got to thinking. I got to thinking why should we settle for a measly fucking twenty grand--"
+    },
+    {
+      "name": "The Dude",
+      "text": "We? What the fuck we? You said you just wanted to come along--"
+    },
+    {
+      "name": "Walter",
+      "text": "My point, Dude, is why should we settle for twenty grand when we can keep the entire million. Am I wrong?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yes you're wrong. This isn't a fucking game, Walter--"
+    },
+    {
+      "name": "Walter",
+      "text": "It is a fucking game. You said so yourself, Dude--she kidnapped herself--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, but--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Dude here."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "Who is this?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Dude the Bagman. Where do you want us to go?"
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "...Us?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Shit. . . Uh, yeah, you know, me and the driver. I'm not handling the money and driving the car and talking on the phone all by my fucking--"
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "Shut the fuck up. Hello?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah?"
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "Okay, listen--"
+    },
+    {
+      "name": "Walter",
+      "text": "Dude, are you fucking this up?"
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "Who is that?"
+    },
+    {
+      "name": "The Dude",
+      "text": "The driver man, I told you--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Oh shit.  Walter."
+    },
+    {
+      "name": "Walter",
+      "text": "What the fuck is going on there?"
+    },
+    {
+      "name": "The Dude",
+      "text": "They hung up, Walter! You fucked it up! You fucked it up! Her life was in our hands!"
+    },
+    {
+      "name": "Walter",
+      "text": "Easy, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "We're screwed now! We don't get shit and they're gonna kill her! We're fucked, Walter!"
+    },
+    {
+      "name": "Walter",
+      "text": "Dude, nothing is fucked. Come on. You're being very unDude. They'll call back. Look, she kidnapped her--"
+    },
+    {
+      "name": "Walter",
+      "text": "Ya see? Nothing is fucked up here, Dude. Nothing is fucked. These guys are fucking amateurs--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Shutup, Walter! Don't say peep when I'm doing business here."
+    },
+    {
+      "name": "Walter",
+      "text": "Okay Dude. Have it your way. But they're amateurs."
+    },
+    {
+      "name": "The Dude",
+      "text": "Dude here."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "Okay, vee proceed. But only if there is no funny stuff."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "So no funny stuff. Okay?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Hey, just tell me where the fuck you want us to go."
+    },
+    {
+      "name": "The Dude",
+      "text": "That was the sign."
+    },
+    {
+      "name": "Walter",
+      "text": "Yeah. So as long as we get her back, nobody's in a position to complain. And we keep the baksheesh."
+    },
+    {
+      "name": "The Dude",
+      "text": "Terrific, Walter. But you haven't told me how we get her back. Where is she?"
+    },
+    {
+      "name": "Walter",
+      "text": "That's the simple part, Dude. When we make the handoff, I grab the guy and beat it out of him."
+    },
+    {
+      "name": "Walter",
+      "text": "...Huh?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah. That's a great plan, Walter. That's fucking ingenious, if I understand it correctly. That's a Swiss fucking watch."
+    },
+    {
+      "name": "Walter",
+      "text": "Thaaat's right, Dude. The beauty of this is its simplicity. If the plan gets too complex something always goes wrong.  If there's one thing I learned in Nam--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Dude."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "You are approaching a vooden britch. When you cross it you srow ze bag from ze left vindow of ze moving kar.  Do not slow down.  Vee vatch you."
+    },
+    {
+      "name": "The Dude",
+      "text": "FUCK."
+    },
+    {
+      "name": "Walter",
+      "text": "What'd he say? Where's the hand- off?"
+    },
+    {
+      "name": "The Dude",
+      "text": "There is no fucking hand-off, Walter! At a Wooden bridge we throw the money out  of the car!"
+    },
+    {
+      "name": "Walter",
+      "text": "Huh?"
+    },
+    {
+      "name": "The Dude",
+      "text": "We throw the money out of the moving car!"
+    },
+    {
+      "name": "Walter",
+      "text": "We can't do that, Dude.  That fucks up our plan."
+    },
+    {
+      "name": "The Dude",
+      "text": "Well call them up and explain it to 'em, Walter!  Your plan is so fucking simple, I'm sure they'd fucking understand it!  That's the beauty of it Walter!"
+    },
+    {
+      "name": "Walter",
+      "text": "Wooden bridge, huh?"
+    },
+    {
+      "name": "The Dude",
+      "text": "I'm throwing the money, Walter! We're not fucking around!"
+    },
+    {
+      "name": "Walter",
+      "text": "The bridge is coming up!  Gimme the ringer, Dude!  Chop-chop!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Fuck that!  I love you, Walter, but sooner or later you're gonna have to face the fact that you're a goddamn moron."
+    },
+    {
+      "name": "Walter",
+      "text": "Okay, Dude.  No time to argue.  Here's the bridge--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter!"
+    },
+    {
+      "name": "Walter",
+      "text": "Your wheel, Dude!  I'm rolling out!"
+    },
+    {
+      "name": "The Dude",
+      "text": "What the fuck?"
+    },
+    {
+      "name": "Walter",
+      "text": "Your wheel!  At fifteen em-pee-aitch I roll out!  I double back, grab one of 'em and beat it out of him!  The uzi!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Uzi?"
+    },
+    {
+      "name": "Walter",
+      "text": "You didn't think I was rolling out of here naked!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter, please--"
+    },
+    {
+      "name": "Walter",
+      "text": "Fifteen!  This is it, Dude!  Let's take that hill!"
+    },
+    {
+      "name": "The Dude",
+      "text": "WE HAVE IT!  WE HAVE IT!!"
+    },
+    {
+      "name": "The Dude",
+      "text": "WE HAVE IT!!. . . We have it!"
+    },
+    {
+      "name": "Walter",
+      "text": "Ahh fuck it, let's go bowling."
+    },
+    {
+      "name": "Walter",
+      "text": "Aitz chaim he, Dude.  As the ex used to say."
+    },
+    {
+      "name": "The Dude",
+      "text": "What the fuck is that supposed to mean?  What the fuck're we gonna tell Lebowski?"
+    },
+    {
+      "name": "Walter",
+      "text": "Huh?  Oh, him, yeah.  Well I don't see, um-- what exactly is the problem?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Huh?  The problem is--what do you mean what's the--there's no--we didn't-- they're gonna kill that poor woman--"
+    },
+    {
+      "name": "Walter",
+      "text": "What the fuck're you talking about? That poor woman--that poor slut-- kidnapped herself, Dude.  You said so yourself--"
+    },
+    {
+      "name": "The Dude",
+      "text": "No, Walter!  I said I thought she kidnapped herself!  You're the one who's so fucking certain--"
+    },
+    {
+      "name": "Walter",
+      "text": "That's right, Dude, 100% certain--"
+    },
+    {
+      "name": "Donny",
+      "text": "They posted the next round of the tournament--"
+    },
+    {
+      "name": "Walter",
+      "text": "Donny, shut the f--when do we play?"
+    },
+    {
+      "name": "Donny",
+      "text": "This Saturday.  Quintana and--"
+    },
+    {
+      "name": "Walter",
+      "text": "Saturday!  Well they'll have to reschedule."
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter, what'm I gonna tell Lebowski?"
+    },
+    {
+      "name": "Walter",
+      "text": "I told that fuck down at the league office-- who's in charge of scheduling?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter--"
+    },
+    {
+      "name": "Donny",
+      "text": "Burkhalter."
+    },
+    {
+      "name": "Walter",
+      "text": "I told that kraut a fucking thousand times I don't roll on shabbas."
+    },
+    {
+      "name": "Donny",
+      "text": "It's already posted."
+    },
+    {
+      "name": "Walter",
+      "text": "WELL THEY CAN FUCKING UN-POST IT!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Who gives a shit, Walter?  What about that poor woman?  What do we tell--"
+    },
+    {
+      "name": "Walter",
+      "text": "C'mon Dude, eventually she'll get sick of her little game and, you know, wander back--"
+    },
+    {
+      "name": "Donny",
+      "text": "How come you don't roll on Saturday, Walter?"
+    },
+    {
+      "name": "Walter",
+      "text": "I'm shomer shabbas."
+    },
+    {
+      "name": "Donny",
+      "text": "What's that, Walter?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, and in the meantime what do I tell Lebowski?"
+    },
+    {
+      "name": "Walter",
+      "text": "Saturday is shabbas.  Jewish day of rest.  Means I don't work, I don't drive a car, I don't fucking ride in a car, I don't handle money, I don't turn on the oven, and I sure as shit don't fucking roll!"
+    },
+    {
+      "name": "Donny",
+      "text": "Sheesh."
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter, how--"
+    },
+    {
+      "name": "Walter",
+      "text": "Shomer shabbas."
+    },
+    {
+      "name": "The Dude",
+      "text": "That's it.  I'm out of here."
+    },
+    {
+      "name": "Walter",
+      "text": "For Christ's sake, Dude. Hell, you just tell him--well, you tell him, uh, we made the hand-off, everything went, uh, you know--"
+    },
+    {
+      "name": "Donny",
+      "text": "Oh yeah, how'd it go?"
+    },
+    {
+      "name": "Walter",
+      "text": "Went alright.  Dude's car got a little dinged up--"
+    },
+    {
+      "name": "The Dude",
+      "text": "But Walter, we didn't make the fucking hand- off!  They didn't get, the fucking money and they're gonna-- they're gonna--"
+    },
+    {
+      "name": "Walter",
+      "text": "Yeah yeah, 'kill that poor woman.'"
+    },
+    {
+      "name": "Walter",
+      "text": "Kill that poor woman."
+    },
+    {
+      "name": "Donny",
+      "text": "Walter, if you can't ride in a car, how d'you get around on Shammas--"
+    },
+    {
+      "name": "Walter",
+      "text": "Really, Dude, you surprise me. They're not gonna kill shit.  They're not gonna do shit.  What can they do?  Fuckin' amateurs.  And meanwhile, look at the bottom line.  Who's sitting on a million fucking dollars? Am I wrong?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter--"
+    },
+    {
+      "name": "Walter",
+      "text": "Who's got a fucking million fucking dollars parked in the trunk of our car out here?"
+    },
+    {
+      "name": "The Dude",
+      "text": "'Our' car, Walter?"
+    },
+    {
+      "name": "Walter",
+      "text": "And what do they got, Dude?  My dirty undies.  My fucking whites--Say, where is  the car?"
+    },
+    {
+      "name": "Donny",
+      "text": "Who has your undies, Walter?"
+    },
+    {
+      "name": "Walter",
+      "text": "Where's your car, Dude?"
+    },
+    {
+      "name": "The Dude",
+      "text": "You don't know, Walter?  You seem to know the answer to everything else!"
+    },
+    {
+      "name": "Walter",
+      "text": "Hmm.  Well, we were in a handicapped spot.  It, uh, it was probably towed."
+    },
+    {
+      "name": "The Dude",
+      "text": "It's been stolen, Walter!  You fucking know it's been stolen!"
+    },
+    {
+      "name": "Walter",
+      "text": "Well, certainly that's a possibility, Dude--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Aw, fuck it."
+    },
+    {
+      "name": "Donny",
+      "text": "Where you going, Dude?"
+    },
+    {
+      "name": "The Dude",
+      "text": "I'm going home, Donny."
+    },
+    {
+      "name": "Donny",
+      "text": "Your phone's ringing, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "Thank you, Donny."
+    },
+    {
+      "name": "The Dude",
+      "text": "1972 Pontiac LeBaron."
+    },
+    {
+      "name": "Younger Cop",
+      "text": "Color?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Green.  Some brown, or, uh, rust, coloration."
+    },
+    {
+      "name": "Younger Cop",
+      "text": "And was there anything of value in the car?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Huh?  Oh.  Yeah.  Tape deck.  Couple of Creedence tapes.  And there was a, uh. . . my briefcase."
+    },
+    {
+      "name": "Younger Cop",
+      "text": "In the briefcase?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Papers.  Just papers.  You know, my papers.  Business papers."
+    },
+    {
+      "name": "Younger Cop",
+      "text": "And what do you do, sir?"
+    },
+    {
+      "name": "The Dude",
+      "text": "I'm unemployed."
+    },
+    {
+      "name": "Older Cop",
+      "text": "...Most people, we're working nights, they offer us coffee."
+    },
+    {
+      "name": "The Dude",
+      "text": "...Me, I don't drink coffee. But it's nice when they offer. ...Also, my rug was stolen."
+    },
+    {
+      "name": "Younger Cop",
+      "text": "Your rug was in the car."
+    },
+    {
+      "name": "The Dude",
+      "text": "No.  Here."
+    },
+    {
+      "name": "Younger Cop",
+      "text": "Separate incidents?"
+    },
+    {
+      "name": "Older Cop",
+      "text": "Snap out of it, son."
+    },
+    {
+      "name": "The Dude",
+      "text": "You find them much?  Stolen cars?"
+    },
+    {
+      "name": "Younger Cop",
+      "text": "Sometimes.  I wouldn't hold out much hope for the tape deck though.  Or the Creedence tapes."
+    },
+    {
+      "name": "The Dude",
+      "text": "And the, uh, the briefcase?"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Mr. Lebowski, I'd like to see you. Call when you get home and I'll send a car for you.  My name is Maude Lebowski.  I'm the woman who took the rug."
+    },
+    {
+      "name": "Older Cop",
+      "text": "Well, I guess we can close the file on that one."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "I'll be with you in a minute, Mr. Lebowski. Does the female form make you uncomfor- table, Mr. Lebowski?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Is that what that's a picture of?"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "In a sense, yes.  Elfranco, my robe. My art has been commended as being strongly vaginal.  Which bothers some men.  The word itself makes some men uncomfortable.  Vagina."
+    },
+    {
+      "name": "The Dude",
+      "text": "Oh yeah?"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Yes, they don't like hearing it and find it difficult to say.  Whereas without batting an eye a man will refer to his 'dick' or his 'rod' or his 'Johnson'."
+    },
+    {
+      "name": "The Dude",
+      "text": "'Johnson'?"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Thank you. All right, Mr. Lebowski, let's get down to cases.  My father told me he's agreed to let you have the rug, but it was a gift from me to my late mother, and so was not his to give. Now.  As for this. . . 'kidnapping'--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Huh?"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Yes, I know about it. And I know that you acted as courier. And let me tell you something: the whole thing stinks to high heaven."
+    },
+    {
+      "name": "The Dude",
+      "text": "Right, but let me explain something about that rug--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Do you like sex, Mr. Lebowski?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Excuse me?"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Sex. The physical act of love. Coitus. Do you like it?"
+    },
+    {
+      "name": "The Dude",
+      "text": "I was talking about my rug."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "You're not interested in sex?"
+    },
+    {
+      "name": "The Dude",
+      "text": "You mean coitus?"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "I like it too. It's a male myth about feminists that we hate sex. It can be a natural, zesty enterprise. But unfortunately there are some people--it is called satyriasis in men, nymphomania in women--who engage in it compulsively and without joy."
+    },
+    {
+      "name": "The Dude",
+      "text": "Oh, no."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Yes Mr. Lebowski, these unfortunate souls cannot love in the true sense of the word. Our mutual acquaintance Bunny is one of these."
+    },
+    {
+      "name": "The Dude",
+      "text": "Listen, Maude, I'm sorry if your stepmother is a nympho, but I don't see what it has to do with--do you have any kalhua?"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Take a look at this, sir."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "Hello. Nein dizbatcher says zere iss problem mit deine kable."
+    },
+    {
+      "name": "The Dude",
+      "text": "Shit, I know that guy. He's a nihilist."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "And you recognize her, of course."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "Za, okay, I bring mein toolz."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "The story is ludicrous."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "Mein nommen iss Karl.  Is hard to verk in zese clozes--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Lord. You can imagine where it goes from here."
+    },
+    {
+      "name": "The Dude",
+      "text": "He fixes the cable?"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Don't be fatuous, Jeffrey.  Little matter to me that this woman chose to pursue a career in pornography, nor that she has been 'banging' Jackie Treehorn, to use the parlance of our times.  However.  I am one of two trustees of the Lebowski Foundation, the other being my father.  The Foundation takes youngsters from Watts and--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Shit yeah, the achievers."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Little Lebowski Urban Achievers, yes, and proud we are of all of them. I asked my father about his withdrawal of a million dollars from the Foundation account and he told me about this 'abduction', but I tell you it is preposterous.  This compulsive fornicator is taking my father for the proverbial ride."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, but my-"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "I'm getting to your rug. My father and I don't get along; he doesn't approve of my lifestyle and, needless to say, I don't approve of his. Still, I hardly wish to make my father's embezzlement a police matter, so I'm proposing that you try to recover the money from the people you delivered it to."
+    },
+    {
+      "name": "The Dude",
+      "text": "Well--sure, I could do that--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "If you successfully do so, I will compensate you to the tune of 10% of the recovered sum."
+    },
+    {
+      "name": "The Dude",
+      "text": "A hundred."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Thousand, yes, bones or clams or whatever you call them."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, but what about--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "--your rug, yes, well with that money you can buy any number of rugs that don't have sentimental value for me. And I am sorry about that crack on the jaw."
+    },
+    {
+      "name": "The Dude",
+      "text": "Oh that's okay, I hardly even--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Here's the name and number of a doctor who will look at it for you. You will receive no bill. He's a good man, and thorough."
+    },
+    {
+      "name": "The Dude",
+      "text": "That's really thoughtful but I--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Please see him, Jeffrey. He's a good man, and thorough."
+    },
+    {
+      "name": "The Dude",
+      "text": "Fuckin' A, man. I got a rash. Fuckin' A, man. I gotta tell ya Tony. I was feeling really shitty earlier in the day, I'd lost  a little  money, I  was down in the dumps."
+    },
+    {
+      "name": "Tony",
+      "text": "Aw, forget about it."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, man! Fuck it! I can't be worrying about that shit. Life goes on!"
+    },
+    {
+      "name": "Tony",
+      "text": "Home sweet home, Mr. L. Who's your friend in the Volkswagon?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Huh?"
+    },
+    {
+      "name": "The Dude",
+      "text": "When did he-"
+    },
+    {
+      "name": "The Dude",
+      "text": "Fuck, man!  There's a beverage here!"
+    },
+    {
+      "name": "Lebowski",
+      "text": "Start talking and talk fast you lousy bum!"
+    },
+    {
+      "name": "Brandt",
+      "text": "We've been frantically trying to reach you, Dude."
+    },
+    {
+      "name": "Lebowski",
+      "text": "Where's my goddamn money, you bum?!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Well we--I don't--"
+    },
+    {
+      "name": "Lebowski",
+      "text": "They did not receive the money, you nitwit! They did not receive the goddamn money. HER LIFE WAS IN YOUR HANDS!"
+    },
+    {
+      "name": "Brandt",
+      "text": "This is our concern, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "No, man, nothing is fucked here--"
+    },
+    {
+      "name": "Lebowski",
+      "text": "NOTHING IS FUCKED! THE GODDAMN PLANE HAS CRASHED INTO THE MOUNTAIN!"
+    },
+    {
+      "name": "The Dude",
+      "text": "C'mon man, who're you gonna believe? Those guys are--we dropped off the damn money--"
+    },
+    {
+      "name": "Lebowski",
+      "text": "WHAT?!"
+    },
+    {
+      "name": "The Dude",
+      "text": "I--the royal we, you know, the editorial--I dropped off the money, exactly as per--Look, I've got certain information, certain things have come to light, and uh, has it ever occurred to you, man, that given the nature of all this new shit, that, uh, instead of running around blaming me, that this whole thing might just be, not, you know, not just such a simple, but uh--you know?"
+    },
+    {
+      "name": "Lebowski",
+      "text": "What in God's holy name are you blathering about?"
+    },
+    {
+      "name": "The Dude",
+      "text": "I'll tell you what I'm blathering about! I got information--new shit has come to light and--shit, man! She kidnapped herself!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Well sure, look at it! Young trophy wife, I mean, in the parlance of our times, owes money all over town, including to known pornographers-- and that's cool, that's cool-- but I'm saying, she needs money, and of course they're gonna say they didn't get it 'cause she wants more, man, she's gotta feed the monkey, I mean-- hasn't that ever occurred to you...? Sir?"
+    },
+    {
+      "name": "Lebowski",
+      "text": "No.  No Mr. Lebowski, that had not occurred to me."
+    },
+    {
+      "name": "Brandt",
+      "text": "That had not occurred to us, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "Well, okay, you're not privy to all the new shit, so uh, you know, but that's what you pay me for.  Speaking of which, would it be possible for me to get my twenty grand in cash? I gotta check this with my accountant of course, but my concern is that, you know, it could bump me into a higher tax--"
+    },
+    {
+      "name": "Lebowski",
+      "text": "Brandt, give him the envelope."
+    },
+    {
+      "name": "The Dude",
+      "text": "Well, okay, if you've already made out the check.  Brandt is handing him a letter-sized envelope which is distended by something inside."
+    },
+    {
+      "name": "Brandt",
+      "text": "We received it this morning."
+    },
+    {
+      "name": "Lebowski",
+      "text": "Since you have failed to achieve, even in the modest task that was your charge, since you have stolen my money, and since you have unrepentantly betrayed my trust."
+    },
+    {
+      "name": "Lebowski",
+      "text": "I have no choice but to tell these bums that they should do whatever is necessary to recover their money from you, Jeffrey Lebowski. And with Brandt as my witness, tell you this: Any further harm visited upon Bunny, shall be visited tenfold upon your head."
+    },
+    {
+      "name": "Lebowski",
+      "text": "...By God sir. I will not abide another toe."
+    },
+    {
+      "name": "Walter",
+      "text": "That wasn't her toe."
+    },
+    {
+      "name": "The Dude",
+      "text": "Whose toe was it, Walter?"
+    },
+    {
+      "name": "Walter",
+      "text": "How the fuck should I know? I do know that nothing about it indicates--"
+    },
+    {
+      "name": "The Dude",
+      "text": "The nail polish, Walter."
+    },
+    {
+      "name": "Walter",
+      "text": "Fine, Dude. As if it's impossible to get some nail polish, apply it to someone else's toe--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Someone else's--where the fuck are they gonna--"
+    },
+    {
+      "name": "Walter",
+      "text": "You want a toe? I can get you a toe, believe me. There are ways, Dude. You don't wanna know about it, believe me."
+    },
+    {
+      "name": "The Dude",
+      "text": "But Walter--"
+    },
+    {
+      "name": "Walter",
+      "text": "I'll get you a toe by this afternoon--with nail polish. These fucking amateurs. They send us a toe, we're supposed to shit our-selves with fear. Jesus Christ. My point is--"
+    },
+    {
+      "name": "The Dude",
+      "text": "They're gonna kill her, Walter, and then they're gonna kill me--"
+    },
+    {
+      "name": "Walter",
+      "text": "Well that's just, that's the stress talking, Dude.  So far we have what looks to me like a series of victimless crimes--"
+    },
+    {
+      "name": "The Dude",
+      "text": "What about the toe?"
+    },
+    {
+      "name": "Walter",
+      "text": "FORGET ABOUT THE FUCKING TOE!"
+    },
+    {
+      "name": "Waitress",
+      "text": "Could you please keep your voices down--this is a family restaurant."
+    },
+    {
+      "name": "Walter",
+      "text": "Oh, please dear!  I've got news for you: the Supreme Court has roundly rejected prior restraint!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter, this isn't a First Amendment thing."
+    },
+    {
+      "name": "Waitress",
+      "text": "Sir, if you don't calm down I'm going to have to ask you to leave."
+    },
+    {
+      "name": "Walter",
+      "text": "Lady, I got buddies who died face- down in the muck so you and I could enjoy this family restaurant!"
+    },
+    {
+      "name": "The Dude",
+      "text": "All right, I'm leaving.  I'm sorry ma'am."
+    },
+    {
+      "name": "Walter",
+      "text": "Don't run away from this, Dude! Goddamnit, this affects all of us!"
+    },
+    {
+      "name": "Walter",
+      "text": "Our basic freedoms!"
+    },
+    {
+      "name": "Walter",
+      "text": "I'm staying.  Finishing my coffee. Finishing my coffee."
+    },
+    {
+      "name": "Policeman",
+      "text": "Mr. Lebowski, this is Duty Officer Rolvaag of the L.A.P.D."
+    },
+    {
+      "name": "Policeman",
+      "text": "We've recovered your vehicle.  It can be claimed at the North HollyWood Auto Circus there on Victory."
+    },
+    {
+      "name": "The Dude",
+      "text": "Far out.  Far fuckin' out."
+    },
+    {
+      "name": "The Dude",
+      "text": "Hunh?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Hey!  This is a private residence, man!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Nice marmot."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "Vee vant zat money, Lebowski."
+    },
+    {
+      "name": "Kieffer",
+      "text": "You think veer kidding und making mit de funny stuff?"
+    },
+    {
+      "name": "Franz",
+      "text": "Vee could do things you only dreamed of, Lebowski."
+    },
+    {
+      "name": "Kieffer",
+      "text": "Ja, vee could really do it, Lebowski. Vee belief in nossing."
+    },
+    {
+      "name": "The Dude",
+      "text": "Jesus!"
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "Vee belief in nossing, Lebowski! NOSSING!!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Jesus Christ!"
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "Tomorrow vee come back und cut off your chonson."
+    },
+    {
+      "name": "The Dude",
+      "text": "Excuse me?"
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "I SAY VEE CUT OFF YOUR CHONSON!"
+    },
+    {
+      "name": "Kieffer",
+      "text": "Just sink about zat, Lebowski."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "Ja, your viggly penis, Lebowski."
+    },
+    {
+      "name": "Kieffer",
+      "text": "Ja, und maybe vee stamp on it und skvush it, Lebowski!"
+    },
+    {
+      "name": "Policeman",
+      "text": "You're lucky she wasn't chopped, Mr. Lebowski. Must've been a joyride situation; they abandoned the car once they hit the retaining wall."
+    },
+    {
+      "name": "Policeman",
+      "text": "These were on the road next to the car.  You'll have to get in on the other side."
+    },
+    {
+      "name": "The Dude",
+      "text": "My fucking briefcase!  It's not here!"
+    },
+    {
+      "name": "Policeman",
+      "text": "Yeah, sorry, I saw that on the report. You're lucky they left the tape deck though."
+    },
+    {
+      "name": "The Dude",
+      "text": "My fucking briefcase!  Jesus--what's that smell?"
+    },
+    {
+      "name": "Policeman",
+      "text": "Uh, yeah.  Probably a vagrant, slept in the car.  Or perhaps just used it as a toilet, and moved on."
+    },
+    {
+      "name": "The Dude",
+      "text": "When will you find these guys?  I mean, do you have any promising leads?"
+    },
+    {
+      "name": "Policeman",
+      "text": "Leads, yeah.  I'll just check with the boys down at the Crime Lab. They've assigned four more detectives to the case, got us working in shifts."
+    },
+    {
+      "name": "Donny",
+      "text": "And then they're gonna stamp on it?!"
+    },
+    {
+      "name": "Walter",
+      "text": "Oh for Christ--will you shut the fuck up, Donny."
+    },
+    {
+      "name": "The Dude",
+      "text": "I figure my only hope is that the big Lebowski kills me before the Germans can cut my dick off."
+    },
+    {
+      "name": "Walter",
+      "text": "Now that is ridiculous, Dude.  No one is going to cut your dick off."
+    },
+    {
+      "name": "The Dude",
+      "text": "Thanks Walter."
+    },
+    {
+      "name": "Walter",
+      "text": "Not if I have anything to say about it."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, thanks Walter.  That gives me a very secure feeling."
+    },
+    {
+      "name": "Walter",
+      "text": "Dude--"
+    },
+    {
+      "name": "The Dude",
+      "text": "That makes me feel all warm inside."
+    },
+    {
+      "name": "Walter",
+      "text": "Now Dude--"
+    },
+    {
+      "name": "The Dude",
+      "text": "This whole fucking thing--I  could be sitting here with just pee-stains on my rug."
+    },
+    {
+      "name": "Walter",
+      "text": "Fucking Germans.  Nothing changes. Fucking Nazis."
+    },
+    {
+      "name": "Donny",
+      "text": "They were Nazis, Dude?"
+    },
+    {
+      "name": "Walter",
+      "text": "Come on, Donny, they were threatening castration!"
+    },
+    {
+      "name": "Donny",
+      "text": "Uh-huh."
+    },
+    {
+      "name": "Walter",
+      "text": "Are you gonna split hairs?"
+    },
+    {
+      "name": "Donny",
+      "text": "No--"
+    },
+    {
+      "name": "Walter",
+      "text": "Am I wrong?"
+    },
+    {
+      "name": "Donny",
+      "text": "Well--"
+    },
+    {
+      "name": "The Dude",
+      "text": "They're nihilists."
+    },
+    {
+      "name": "Walter",
+      "text": "Huh?"
+    },
+    {
+      "name": "The Dude",
+      "text": "They kept saying they believe in nothing."
+    },
+    {
+      "name": "Walter",
+      "text": "Nihilists!  Jesus."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah."
+    },
+    {
+      "name": "Walter",
+      "text": "And let's also not forget--let's not forget, Dude--that keeping wildlife, an amphibious rodent, for uh, domestic, you know, within the city-- that isn't legal either."
+    },
+    {
+      "name": "The Dude",
+      "text": "What're you, a fucking park ranger now?"
+    },
+    {
+      "name": "Walter",
+      "text": "No, I'm--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Who gives a shit about the fucking marmot!"
+    },
+    {
+      "name": "Walter",
+      "text": "--We're sympathizing here, Dude--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Fuck your sympathy!  I don't need your sympathy, man, I need my fucking Johnson!"
+    },
+    {
+      "name": "Donny",
+      "text": "What do you need that for, Dude?"
+    },
+    {
+      "name": "Walter",
+      "text": "You gotta buck up, man, you can't go into the tournament with this negative attitude--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Fuck the tournament!  Fuck you, Walter!"
+    },
+    {
+      "name": "Walter",
+      "text": "Fuck the tournament?!"
+    },
+    {
+      "name": "Walter",
+      "text": "Okay Dude.  I can see you don't want to be cheered up.  C'mon Donny, let's go get a lane."
+    },
+    {
+      "name": "The Dude",
+      "text": "Another Caucasian, Gary."
+    },
+    {
+      "name": "Gary",
+      "text": "Right, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "Friends like these, huh Gary."
+    },
+    {
+      "name": "Gary",
+      "text": "That's right, Dude."
+    },
+    {
+      "name": "The Stranger",
+      "text": "D'ya have a good sarsaparilla?"
+    },
+    {
+      "name": "Gary",
+      "text": "Sioux City Sarsaparilla."
+    },
+    {
+      "name": "The Stranger",
+      "text": "That's a good one."
+    },
+    {
+      "name": "The Stranger",
+      "text": "How ya doin' there, Dude?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Ahh, not so good, man."
+    },
+    {
+      "name": "The Stranger",
+      "text": "One a those days, huh.  Wal, a wiser fella than m'self once said, sometimes you eat the bar and sometimes the bar, wal, he eats you."
+    },
+    {
+      "name": "The Dude",
+      "text": "Uh-huh.  That some kind of Eastern thing?"
+    },
+    {
+      "name": "The Stranger",
+      "text": "Far from it."
+    },
+    {
+      "name": "The Dude",
+      "text": "Mm."
+    },
+    {
+      "name": "The Stranger",
+      "text": "Much obliged."
+    },
+    {
+      "name": "The Stranger",
+      "text": "I like your style, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "Well I like your style too, man. Got a whole cowboy thing goin'."
+    },
+    {
+      "name": "The Stranger",
+      "text": "Thankie. . . Just one thing, Dude. D'ya have to use s'many cuss words?"
+    },
+    {
+      "name": "The Dude",
+      "text": "The fuck are you talking about?"
+    },
+    {
+      "name": "The Stranger",
+      "text": "Okay, have it your way."
+    },
+    {
+      "name": "The Stranger",
+      "text": "Take it easy, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah. Thanks man."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Jeffrey, you haven't gone to the doctor."
+    },
+    {
+      "name": "The Dude",
+      "text": "No it's fine, really, uh--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Do you have any news regarding my father's money?"
+    },
+    {
+      "name": "The Dude",
+      "text": "I, uh... money, yeah, I gotta respecfully, 69 you know, tender my resignation on that matter, 'cause it looks like your mother really was kidnapped after all."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "She most certainly was not!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Hey man, why don't you fucking listen occasionally?  You might learn something.  Now I got--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "And please don't call her my mother."
+    },
+    {
+      "name": "The Dude",
+      "text": "Now I got--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "She is most definitely the perpetrator and not the victim."
+    },
+    {
+      "name": "The Dude",
+      "text": "I'm telling you, I got definitive evidence--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "From who?"
+    },
+    {
+      "name": "The Dude",
+      "text": "The main guy, Uli Kunkel--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Uli Kunkel Hauff?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Well--yeah, I guess--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Her 'co-star' in the beaver picture?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Beaver?  You mean vagina?--I mean, you know him?"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Uli Kunkel has been on the fringes of-- well, of everything in L.A., for about twenty years.  Look at my LP's. Under 'Autobahn.'"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "That was his group--they released one album in the mid-seventies."
+    },
+    {
+      "name": "The Dude",
+      "text": "Roy Orbison. . . Pink Floyd."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Huh?  Autobahn.  A-u-t-o.  Their music is a sort of--ugh--techno-pop."
+    },
+    {
+      "name": "The Dude",
+      "text": "Jeez.  I miss vinyl."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Is he pretending to be the abductor?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Well...yeah--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Look, Jeffrey, you don't really kidnap someone that you're acquainted with.  You can't get away with it if the hostage knows who you are."
+    },
+    {
+      "name": "The Dude",
+      "text": "Well yeah...I know that."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "So Uli Kunkel has the money?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Well, no, not exactly.  It's a complicated case, Maude.  Lotta ins. Lotta outs.  And a lotta strands to keep in my head, man.  Lotta strands in old Duder's--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Do you still have that doctor's number?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Huh?  No, really, I don't even have the bruise any more, I--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Please Jeffrey.  I don't want to be responsible for any delayed after- effects."
+    },
+    {
+      "name": "The Dude",
+      "text": "Delayed after-eff--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "I want you to see him immediately."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "I'll see if he's available.  He's a good man, and thorough."
+    },
+    {
+      "name": "Doctor",
+      "text": "Could you slide your shorts down please, Mr.  Lebowski?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Huh?  No, she, she hit me right here."
+    },
+    {
+      "name": "Doctor",
+      "text": "I understand sir.  Could you slide your shorts down please?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Fuck Me."
+    },
+    {
+      "name": "The Dude",
+      "text": "Fuckola, man."
+    },
+    {
+      "name": "Walter",
+      "text": "He lives in North HollyWood on Radford, near the In-and-Out Burger--"
+    },
+    {
+      "name": "The Dude",
+      "text": "The In-and-Out Burger is on Camrose."
+    },
+    {
+      "name": "Walter",
+      "text": "Near the In-and-Out Burger--"
+    },
+    {
+      "name": "Donny",
+      "text": "Those are good burgers, Walter."
+    },
+    {
+      "name": "Walter",
+      "text": "Shut the fuck up, Donny. This kid is in the ninth grade, Dude, and his father is--are you ready for this?-- Arthur Digby Sellers."
+    },
+    {
+      "name": "The Dude",
+      "text": "Who the fuck is that?"
+    },
+    {
+      "name": "Walter",
+      "text": "Huh?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Who the fuck is Arthur Digby Sellers?"
+    },
+    {
+      "name": "Walter",
+      "text": "Who the f--have you ever heard of a little show called Branded, Dude?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah."
+    },
+    {
+      "name": "Walter",
+      "text": "All but one man died? There at Bitter Creek?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah yeah, I know the fucking show Walter, so what?"
+    },
+    {
+      "name": "Walter",
+      "text": "Fucking Arthur Digby Sellers wrote 156 episodes, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "Uh-huh."
+    },
+    {
+      "name": "Walter",
+      "text": "The bulk of the series."
+    },
+    {
+      "name": "The Dude",
+      "text": "Uh-huh."
+    },
+    {
+      "name": "Walter",
+      "text": "Not exactly a lightweight."
+    },
+    {
+      "name": "The Dude",
+      "text": "No."
+    },
+    {
+      "name": "Walter",
+      "text": "And yet his son is a fucking dunce."
+    },
+    {
+      "name": "The Dude",
+      "text": "Uh."
+    },
+    {
+      "name": "Walter",
+      "text": "Yeah, go figure.  Well we'll go out there after the, uh, the."
+    },
+    {
+      "name": "Walter",
+      "text": "What have you.  We'll, uh--"
+    },
+    {
+      "name": "Donny",
+      "text": "We'll be near the In-and-Out Burger."
+    },
+    {
+      "name": "Walter",
+      "text": "Shut the fuck up, Donny. We'll, uh, brace the kid--he'll be a pushover. We'll get that fucking money, if he hasn't spent it already.  Million fucking clams. And yes, we'll be near the, uh--some burgers, some beers, a few laughs.  Our fucking troubles are over, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "Fuck me, man!  That kid's already spent all the money!"
+    },
+    {
+      "name": "Walter",
+      "text": "Hardly Dude, a new 'vette?  The kid's still got, oh, 96 to 97 thousand, depending on the options.  Wait in the car, Donny."
+    },
+    {
+      "name": "Pilar",
+      "text": "Jace?"
+    },
+    {
+      "name": "Walter",
+      "text": "Hello, Pilar?  My name is Walter Sobchak, we spoke on the phone, this is my associate Jeffrey Lebowski."
+    },
+    {
+      "name": "Pilar",
+      "text": "Jace."
+    },
+    {
+      "name": "Walter",
+      "text": "May we uh, we wanted to talk about little Larry.  May we come in?"
+    },
+    {
+      "name": "Pilar",
+      "text": "Jace."
+    },
+    {
+      "name": "Pilar",
+      "text": "Larry! Sweetie! Dat mang is here!"
+    },
+    {
+      "name": "Walter",
+      "text": "That's him, Dude. And a good day to you, sir."
+    },
+    {
+      "name": "Pilar",
+      "text": "See down, please."
+    },
+    {
+      "name": "Walter",
+      "text": "Thank you, ma'am."
+    },
+    {
+      "name": "Walter",
+      "text": "Does he, uh. . . Is he still writing?"
+    },
+    {
+      "name": "Pilar",
+      "text": "No, no.  He has healt' problems."
+    },
+    {
+      "name": "Walter",
+      "text": "Uh-huh."
+    },
+    {
+      "name": "Walter",
+      "text": "I just want to say, sir, that we're both enormous--on a personal level, Branded, especially the early episodes, has been a source of, uh, inspir---"
+    },
+    {
+      "name": "Pilar",
+      "text": "See down, Sweetie.  These are the policeman--"
+    },
+    {
+      "name": "Walter",
+      "text": "No ma'am, I didn't mean to give the impression that we're police exactly. We're hoping that it will not be necessary to call the police."
+    },
+    {
+      "name": "Walter",
+      "text": "But that is up to little Larry here. Isn't it, Larry?"
+    },
+    {
+      "name": "Walter",
+      "text": "Is this your homework, Larry? Is this your homework, Larry?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Look, man, did you--"
+    },
+    {
+      "name": "Walter",
+      "text": "Dude, please!. . .  Is this your homework, Larry?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Just ask him if he--ask him about the car, man!"
+    },
+    {
+      "name": "Walter",
+      "text": "Is this yours, Larry?  Is this your homework, Larry?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Is the car out front yours?"
+    },
+    {
+      "name": "Walter",
+      "text": "Is this your homework, Larry?"
+    },
+    {
+      "name": "The Dude",
+      "text": "We know it's his fucking homework, Walter!  Where's the fucking money, you little brat?"
+    },
+    {
+      "name": "Walter",
+      "text": "Look, Larry. . . Have you ever heard of Vietnam?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Oh, for Christ's sake, Walter!"
+    },
+    {
+      "name": "Walter",
+      "text": "You're going to enter a world of pain, son.  We know that this is your homework.  We know you stole a car--"
+    },
+    {
+      "name": "The Dude",
+      "text": "And the fucking money!"
+    },
+    {
+      "name": "Walter",
+      "text": "And the fucking money.  And we know that this is your homework, Larry."
+    },
+    {
+      "name": "Walter",
+      "text": "You're gonna KILL your FATHER, Larry!."
+    },
+    {
+      "name": "Walter",
+      "text": "Ah, this is pointless."
+    },
+    {
+      "name": "Walter",
+      "text": "All right, Plan B.  You might want to watch out the front window there, Larry."
+    },
+    {
+      "name": "Walter",
+      "text": "This is what happens when you FUCK a STRANGER in the ASS, Larry."
+    },
+    {
+      "name": "Walter",
+      "text": "Fucking language problem, Dude."
+    },
+    {
+      "name": "Walter",
+      "text": "Maybe he'll understand this."
+    },
+    {
+      "name": "Walter",
+      "text": "YOU SEE WHAT HAPPENS, LARRY!"
+    },
+    {
+      "name": "Walter",
+      "text": "YOU SEE WHAT HAPPENS?!"
+    },
+    {
+      "name": "Walter",
+      "text": "THIS IS WHAT HAPPENS WHEN YOU FUCK A STRANGER IN THE ASS!"
+    },
+    {
+      "name": "Walter",
+      "text": "HERE'S WHAT HAPPENS, LARRY!"
+    },
+    {
+      "name": "Walter",
+      "text": "HERE'S WHAT HAPPENS! FUCK A STRANGER IN THE ASS!"
+    },
+    {
+      "name": "Corvette Owner",
+      "text": "WHAT THE FUCK JOO DOING, MANG?!"
+    },
+    {
+      "name": "Corvette Owner",
+      "text": "I JUS' BAWDEEZ FUCKEEN CAR LASS WEEK!"
+    },
+    {
+      "name": "Walter",
+      "text": "Hunh?"
+    },
+    {
+      "name": "Corvette Owner",
+      "text": "I KILL JOO, MANG! I--I KILL JOR FUCKEEN CAR!"
+    },
+    {
+      "name": "The Dude",
+      "text": "No!  No!  NO!  THAT'S NOT--"
+    },
+    {
+      "name": "Corvette Owner",
+      "text": "I FUCKEEN KILL JOR FUCKEEN CAR! I KILL JOR FUCKEEN CAR! I KILL JOR FUCKEEN CAR!"
+    },
+    {
+      "name": "The Dude",
+      "text": "I accept your apology. . . No I, I just want to handle it myself from now on. . . No.  That has nothing to do with it. . . .Yes, it made it home, I'm calling from home.  No, Walter, it didn't look like Larry was about to crack."
+    },
+    {
+      "name": "The Dude",
+      "text": "Well that's your perception. . . Well you're right, Walter, and the unspoken Message is FUCK YOU AND LEAVE ME THE FUCK ALONE. . . Yeah, I'll be at practice."
+    },
+    {
+      "name": "The Dude",
+      "text": "Huh?"
+    },
+    {
+      "name": "Woo",
+      "text": "Pin your diapers on, Lebowski.  Jackie Treehorn wants to see you."
+    },
+    {
+      "name": "Blonde Thug",
+      "text": "And we know which Lebowski you are, Lebowski."
+    },
+    {
+      "name": "Woo",
+      "text": "Yeah.  Jackie Treehorn wants to talk to the deadbeat Lebowski."
+    },
+    {
+      "name": "Blonde Thug",
+      "text": "You're not dealing with morons here."
+    },
+    {
+      "name": "Jackie Treehorn",
+      "text": "Hello Dude, thanks for coming.  I'm Jackie Treehorn."
+    },
+    {
+      "name": "The Dude",
+      "text": "This is quite a pad you got here, man.  Completely unspoiled."
+    },
+    {
+      "name": "Jackie Treehorn",
+      "text": "What's your drink, Dude?"
+    },
+    {
+      "name": "The Dude",
+      "text": "White Russian, thanks. How's the smut business, Jackie?"
+    },
+    {
+      "name": "Jackie Treehorn",
+      "text": "I wouldn't know, Dude. I deal in publishing, entertainment, political advocacy, and--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Which one was Logjammin'?"
+    },
+    {
+      "name": "Jackie Treehorn",
+      "text": "Regrettably, it's true, standards have fallen in adult entertainment. It's video, Dude.  Now that we're competing with the amateurs, we can't afford to invest that little extra in story, production value, feeling."
+    },
+    {
+      "name": "Jackie Treehorn",
+      "text": "People forget that the brain is the biggest erogenous zone--"
+    },
+    {
+      "name": "The Dude",
+      "text": "On you, maybe."
+    },
+    {
+      "name": "Jackie Treehorn",
+      "text": "Of course, you do get the good with the bad.  The new technology permits us to do exciting things with interactive erotic software.  Wave of the future, Dude. 100% electronic."
+    },
+    {
+      "name": "The Dude",
+      "text": "Uh-huh.  Well, I still jerk off manually."
+    },
+    {
+      "name": "Jackie Treehorn",
+      "text": "Of course you do.  I can see you're anxious for me to get to the point. Well Dude, here it is.  Where's Bunny?"
+    },
+    {
+      "name": "The Dude",
+      "text": "I thought you might know, man."
+    },
+    {
+      "name": "Jackie Treehorn",
+      "text": "Me?  How would I know?  The only reason she ran off was to get away from her rather sizable debt to me."
+    },
+    {
+      "name": "The Dude",
+      "text": "But she hasn't run off, she's been--"
+    },
+    {
+      "name": "Jackie Treehorn",
+      "text": "I've heard the kidnapping story, so save it.  I know you're mixed up in all this, Dude, and I don't care what you're trying to take off her husband.  That's your business.  All I'm saying is, I want mine."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, well, right man, there are many facets to this, uh, you know, many interested parties.  If I can find your money, man-- what's in it for the Dude?"
+    },
+    {
+      "name": "Jackie Treehorn",
+      "text": "Of course, there's that to discuss. Refill?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Does the Pope shit in the Woods?"
+    },
+    {
+      "name": "Jackie Treehorn",
+      "text": "Let's say a 10% finder's fee?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Okay, Jackie, done. I like the way you do business.  Your money is being held by a kid named Larry Sellers. He lives in North HollyWood, on Radford, near the In-and-Out Burger. A real fuckin' brat, but I'm sure your goons'll be able to get it off him, mean he's only fifteen and he's flunking social studies.  So if you'll just write me a check for my ten per cent. . . of half a million. . . fifty grand."
+    },
+    {
+      "name": "The Dude",
+      "text": "I'll go out and mingle.--Jesus, you mix a hell of a Caucasian, Jackie."
+    },
+    {
+      "name": "Jackie Treehorn",
+      "text": "A fifteen-year-old? Is this your idea of a joke?"
+    },
+    {
+      "name": "The Dude",
+      "text": "No funny stuff, Jackie. . . the kid's got it.  Hiya, fellas. . . kid just wanted a car.  All the Dude ever wanted. . . was his rug back. . . not greedy. . . it really."
+    },
+    {
+      "name": "The Stranger",
+      "text": "Darkness warshed over the Dude-- darker'n a black steer's tookus on a moonless prairie night.  There was no bottom."
+    },
+    {
+      "name": "The Dude",
+      "text": "He was innocent. Not a charge was true. And they say he ran awaaaaaay."
+    },
+    {
+      "name": "Police Chief of Malibu",
+      "text": "This is your only I.D.?"
+    },
+    {
+      "name": "The Dude",
+      "text": "I know my rights."
+    },
+    {
+      "name": "Police Chief of Malibu",
+      "text": "You don't know shit, Lebowski."
+    },
+    {
+      "name": "The Dude",
+      "text": "I want a fucking lawyer, man.  I want Bill Kunstler."
+    },
+    {
+      "name": "Police Chief of Malibu",
+      "text": "What are you, some kind of sad-assed refugee from the fucking sixties?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Uh-huh."
+    },
+    {
+      "name": "Police Chief of Malibu",
+      "text": "Mr. Treehorn tells us that he had to eject you from his garden party, that you were drunk and abusive."
+    },
+    {
+      "name": "The Dude",
+      "text": "That guy treats women like objects, man."
+    },
+    {
+      "name": "Police Chief of Malibu",
+      "text": "Mr. Treehorn draws a lot of water in this town, Lebowski.  You don't draw shit.  We got a nice quiet beach community here, and I aim to keep it nice and quiet.  So let me make something plain.  I don't like you sucking around bothering our citizens, Lebowski.  I don't like your jerk- off name, I don't like your jerk-off face, I don't like your jerk- off behavior, and I don't like you, jerk- off --do I make myself clear?"
+    },
+    {
+      "name": "The Dude",
+      "text": "I'm sorry, I wasn't listening."
+    },
+    {
+      "name": "The Dude",
+      "text": "--Ow!  Fucking fascist!"
+    },
+    {
+      "name": "Police Chief of Malibu",
+      "text": "Stay out of Malibu, Lebowski!"
+    },
+    {
+      "name": "Police Chief of Malibu",
+      "text": "Stay out of Malibu, deadbeat!  Keep your ugly fucking goldbricking ass out of my beach community!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Jesus, man, can you change the station?"
+    },
+    {
+      "name": "Cab Driver",
+      "text": "Fuck you man!  You don't like my fucking music, get your own fucking cab!"
+    },
+    {
+      "name": "The Dude",
+      "text": "I've had a--"
+    },
+    {
+      "name": "Cab Driver",
+      "text": "I pull over and kick your ass out, man!"
+    },
+    {
+      "name": "The Dude",
+      "text": "--had a rough night, and I hate the fucking Eagles, man--"
+    },
+    {
+      "name": "Cab Driver",
+      "text": "That's it!  Outta this fucking cab!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Jesus."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Jeffrey."
+    },
+    {
+      "name": "The Dude",
+      "text": "Maude?"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Love me."
+    },
+    {
+      "name": "The Dude",
+      "text": "That's my robe."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Tell me a little about yourself, Jeffrey."
+    },
+    {
+      "name": "The Dude",
+      "text": "Well, uh. . . Not much to tell."
+    },
+    {
+      "name": "The Dude",
+      "text": "I was, uh, one of the authors of the Port Huron Statement.--The original Port Huron Statement."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Uh-huh."
+    },
+    {
+      "name": "The Dude",
+      "text": "Not the compromised second draft. And then I, uh. . . Ever hear of the Seattle Seven?"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Mmnun."
+    },
+    {
+      "name": "The Dude",
+      "text": "And then. . . let's see, I uh--music business briefly."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Oh?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah.  Roadie for Metallica.  Speed of Sound Tour."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Uh-huh."
+    },
+    {
+      "name": "The Dude",
+      "text": "Bunch of assholes.  And then, you know, little of this, little of that. My career's, uh, slowed down a bit lately."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "What do you do for fun?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Oh, you know, the usual.  Bowl. Drive around.  The occasional acid flashback."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "What happened to your house?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Jackie Treehorn trashed the place. Wanted to save the finder's fee."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Finder's fee?"
+    },
+    {
+      "name": "The Dude",
+      "text": "He thought I had your father's money, so he got me out of the way while he looked for it."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "It's not my father's money, it's the Foundation's.  Why did he think you had it?  And who does?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Larry Sellers, a high-school kid. Real fucking brat."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Jeffrey--"
+    },
+    {
+      "name": "The Dude",
+      "text": "It's a complicated case, Maude. Lotta ins, lotta outs.  Fortunately I've been adhering to a pretty strict, uh, drug regimen to keep my mind, you know, limber.  I'm real fucking close to your father's money, real fucking close.  It's just--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "I keep telling you, it's the Foundation's money.  Father doesn't have any."
+    },
+    {
+      "name": "The Dude",
+      "text": "Huh?  He's fucking loaded."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "No no, the wealth was all Mother's."
+    },
+    {
+      "name": "The Dude",
+      "text": "But your father--he runs stuff, he--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "We did let Father run one of the companies, briefly, but he didn't do very well at it."
+    },
+    {
+      "name": "The Dude",
+      "text": "But he's--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "He helps administer the charities now, and I give him a reasonable allowance.  He has no money of his own.  I know how he likes to present himself; Father's weakness is vanity. Hence the slut."
+    },
+    {
+      "name": "The Dude",
+      "text": "Huh.  Jeez.  Well, so, did he--is that yoga?"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "It increases the chances of conception."
+    },
+    {
+      "name": "The Dude",
+      "text": "Increases?"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Well yes, what did you think this was all about?  Fun and games?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Well...no, of course not--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "I want a child."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, okay, but see, the Dude--"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Look, Jeffrey, I don't want a partner. In fact I don't want the father to be someone I have to see socially, or who'll have any interest in rearing the child himself."
+    },
+    {
+      "name": "The Dude",
+      "text": "Huh..."
+    },
+    {
+      "name": "The Dude",
+      "text": "So...that doctor."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Exactly.  What happened to your face? Did Jackie Treehorn do that as well?"
+    },
+    {
+      "name": "The Dude",
+      "text": "No, the, uh, police chief of Malibu. A real reactionary. . . So your father. . . Oh man, I get it!"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "What?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, my thinking about the case, man, it had become uptight.  Yeah. Your father--"
+    },
+    {
+      "name": "Walter",
+      "text": "This is Walter Sobchak.  I'm not in; leave a message after the beep."
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "What're you talking about?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter, if you're there, pick up the fucking phone.  Pick it up, Walter, this is an emergency.  I'm not--"
+    },
+    {
+      "name": "Walter",
+      "text": "Dude?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter, listen, I'm at my place, I need you to come pick me up--"
+    },
+    {
+      "name": "Walter",
+      "text": "I can't drive, Dude, it's erev shabbas."
+    },
+    {
+      "name": "The Dude",
+      "text": "Huh?"
+    },
+    {
+      "name": "Walter",
+      "text": "Erev shabbas. I can't drive. I'm not even supposed to pick up the phone, unless it's an emergency."
+    },
+    {
+      "name": "The Dude",
+      "text": "It is a fucking emergency."
+    },
+    {
+      "name": "Walter",
+      "text": "I understand.  That's why I picked up the phone."
+    },
+    {
+      "name": "The Dude",
+      "text": "THEN WHY CAN'T YOU--fuck, never mind, just call Donny then, and ask him to--"
+    },
+    {
+      "name": "Walter",
+      "text": "Dude, I'm not supposed to make calls--"
+    },
+    {
+      "name": "The Dude",
+      "text": "WALTER, YOU FUCKING ASSHOLE, WE GOTTA GO TO PASADENA!  COME  PICK ME UP OR I'M OFF THE FUCKING BOWLING TEAM!"
+    },
+    {
+      "name": "Maude Lebowski",
+      "text": "Jeffrey?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Get out of that fucking car, man!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Who the fuck are you, man! Come on, man!"
+    },
+    {
+      "name": "Da Fino",
+      "text": "Relax, man! No physical harm intended!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Who the fuck are you?  Why've you been following me?  Come on, fuckhead!"
+    },
+    {
+      "name": "Da Fino",
+      "text": "Hey, relax man, I'm a brother shamus."
+    },
+    {
+      "name": "The Dude",
+      "text": "Brother Shamus?  Like an Irish monk?"
+    },
+    {
+      "name": "Da Fino",
+      "text": "Irish m--What the fuck are you talking about?  My name's Da Fino!  I'm a private snoop!  Like you, man!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Huh?"
+    },
+    {
+      "name": "Da Fino",
+      "text": "A dick, man!  And let me tell you something: I dig your work. Playing one side against the other--in bed with everybody--fabulous stuff, man."
+    },
+    {
+      "name": "The Dude",
+      "text": "I'm not a--ah, fuck it, just stay away from my fucking lady friend, man."
+    },
+    {
+      "name": "Da Fino",
+      "text": "Hey hey, I'm not messing with your special lady--"
+    },
+    {
+      "name": "The Dude",
+      "text": "She's not my special lady, she's my fucking lady friend.  I'm just helping her conceive, man!"
+    },
+    {
+      "name": "Da Fino",
+      "text": "Hey, man, I'm not--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Who're you working for?  Lebowski? Jackie Treehorn?"
+    },
+    {
+      "name": "Da Fino",
+      "text": "The Gundersons."
+    },
+    {
+      "name": "The Dude",
+      "text": "The?  Who the fff--"
+    },
+    {
+      "name": "Da Fino",
+      "text": "The Gundersons.  It's a wandering daughter job.  Bunny Lebowski, man. Her real name is Fawn Gunderson. Her parents want her back."
+    },
+    {
+      "name": "Da Fino",
+      "text": "See?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Jesus fucking Christ."
+    },
+    {
+      "name": "Da Fino",
+      "text": "Crazy, huh?  Ran away a year ago."
+    },
+    {
+      "name": "The Dude",
+      "text": "Boy.  How ya gonna keep 'em down on the farm once they seen Karl Hungus."
+    },
+    {
+      "name": "Da Fino",
+      "text": "Fuck, man!  That's terrible!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, it sucks."
+    },
+    {
+      "name": "Da Fino",
+      "text": "Well maybe you and me could pool our resources--trade information-- professional courtesy--compeers, you know--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, I get it.  Fuck off, Da Fino. And stay away from my special la-- from my fucking lady friend."
+    },
+    {
+      "name": "Waitress",
+      "text": "You folks ready?"
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "I haff lingenberry pancakes."
+    },
+    {
+      "name": "Kieffer",
+      "text": "Lingenberry pancakes."
+    },
+    {
+      "name": "Franz",
+      "text": "Sree picks in blanket."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "Lingenberry pancakes."
+    },
+    {
+      "name": "The Dude",
+      "text": "I mean we totally fucked it up, man. We fucked up his pay-off.  And got the kidnappers all pissed off, and the big Lebowski yelled at me a lot, but he didn't do anything.  Huh?"
+    },
+    {
+      "name": "Walter",
+      "text": "Well it's, sometimes the cathartic, uh."
+    },
+    {
+      "name": "The Dude",
+      "text": "I'm saying if he knows I'm a fuck- up, then why does he still leave me in charge of getting back his wife? Because he fucking doesn't want her back, man!  He's had enough!  He no longer digs her!  It's all a show! But then, why didn't he give a shit about his million bucks?  I mean, he knew we didn't hand off his briefcase, but he never asked for it back."
+    },
+    {
+      "name": "Walter",
+      "text": "What's your point, Dude?"
+    },
+    {
+      "name": "The Dude",
+      "text": "His million bucks was never in it, man!  There was no money in that briefcase!  He was hoping they'd kill her!  You throw out a ringer for a ringer!"
+    },
+    {
+      "name": "Walter",
+      "text": "Yeah?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Shit yeah!"
+    },
+    {
+      "name": "Walter",
+      "text": "Okay, but how does all this add up to an emergency?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Huh?"
+    },
+    {
+      "name": "Walter",
+      "text": "I'm saying, I see what you're getting at, Dude, he kept the money, but my point is, here we are, it's shabbas, the sabbath, which I'm allowed to break only if it's a matter of life and death--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter, come off it.  You're not even fucking Jewish, you're--"
+    },
+    {
+      "name": "Walter",
+      "text": "What the fuck are you talking about?"
+    },
+    {
+      "name": "The Dude",
+      "text": "You're fucking Polish Catholic--"
+    },
+    {
+      "name": "Walter",
+      "text": "What the fuck are you talking about? I converted when I married Cynthia! Come on, Dude!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah, and you were--"
+    },
+    {
+      "name": "Walter",
+      "text": "You know this!"
+    },
+    {
+      "name": "The Dude",
+      "text": "And you were divorced five fucking years ago."
+    },
+    {
+      "name": "Walter",
+      "text": "Yeah?  What do you think happens when you get divorced?  You turn in your library card?  Get a new driver's license?  Stop being Jewish?"
+    },
+    {
+      "name": "The Dude",
+      "text": "This driveway."
+    },
+    {
+      "name": "Walter",
+      "text": "I'm as Jewish as fucking Tevye"
+    },
+    {
+      "name": "The Dude",
+      "text": "It's just part of your whole sick Cynthia thing.  Taking care of her fucking dog.  Going to her fucking synagogue.  You're living in the fucking past."
+    },
+    {
+      "name": "Walter",
+      "text": "Three thousand years of beautiful tradition, from Moses to Sandy Koufax-- YOU'RE GODDAMN RIGHT I LIVE IN THE PAST! I--Jesus. What the hell happened?"
+    },
+    {
+      "name": "Walter",
+      "text": "Jesus Christ."
+    },
+    {
+      "name": "Brandt",
+      "text": "He can't see you, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "Where'd she been?"
+    },
+    {
+      "name": "Brandt",
+      "text": "Visiting friends of hers in Palm Springs. Just picked up and left, never bothered to tell us."
+    },
+    {
+      "name": "The Dude",
+      "text": "But I guess she told Uli Kunkel."
+    },
+    {
+      "name": "Walter",
+      "text": "Jesus, Dude! He never even kidnapped her."
+    },
+    {
+      "name": "Brandt",
+      "text": "Who's this gentleman, Dude?"
+    },
+    {
+      "name": "Walter",
+      "text": "Who'm I?  I'm a fucking VETERAN!"
+    },
+    {
+      "name": "Brandt",
+      "text": "You shouldn't go in there, Dude! He's very angry!"
+    },
+    {
+      "name": "Lebowski",
+      "text": "Well, she's back.  No thanks to you."
+    },
+    {
+      "name": "The Dude",
+      "text": "Where's the money, Lebowski?"
+    },
+    {
+      "name": "Walter",
+      "text": "A MILLION BUCKS FROM FUCKING NEEDY LITTLE URBAN ACHIEVERS!  YOU ARE SCUM, MAN!"
+    },
+    {
+      "name": "Lebowski",
+      "text": "Who the hell is he?"
+    },
+    {
+      "name": "Walter",
+      "text": "I'll tell you who I am!  I'm the guy who's gonna KICK YOUR PHONY GOLDBRICKING ASS!"
+    },
+    {
+      "name": "The Dude",
+      "text": "We know the briefcase was empty, man. We know you kept the million bucks yourself."
+    },
+    {
+      "name": "Lebowski",
+      "text": "Well, you have your story, I have mine. I say I entrusted the money to you, and you stole it."
+    },
+    {
+      "name": "Walter",
+      "text": "AS IF WE WOULD EVER DREAM OF TAKING YOUR BULLSHIT MONEY!"
+    },
+    {
+      "name": "The Dude",
+      "text": "You thought Bunny'd been kidnapped and you could use it as a pretext to make some money disappear.  All you needed was a sap to pin it on, and you'd just met me.  You thought, hey, a deadbeat, a loser, someone the square community won't give a shit about."
+    },
+    {
+      "name": "Lebowski",
+      "text": "Well?  Aren't you?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Well. . . yeah."
+    },
+    {
+      "name": "Lebowski",
+      "text": "All right, get out.  Both of you."
+    },
+    {
+      "name": "Walter",
+      "text": "Look at that fucking phony, Dude! Pretending to be a fucking millionaire!"
+    },
+    {
+      "name": "Lebowski",
+      "text": "I said out.  Now."
+    },
+    {
+      "name": "Walter",
+      "text": "Let me tell you something else. I've seen a lot of spinals, Dude, and this guy is a fake. A fucking goldbricker."
+    },
+    {
+      "name": "Walter",
+      "text": "This guy fucking walks. I've never been more certain of anything in my life!"
+    },
+    {
+      "name": "Lebowski",
+      "text": "Stay away from me, mister!"
+    },
+    {
+      "name": "Walter",
+      "text": "Walk, you fucking phony!"
+    },
+    {
+      "name": "Lebowski",
+      "text": "Put me down, you son of a bitch!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter!"
+    },
+    {
+      "name": "Walter",
+      "text": "It's all over, man! We call your fucking bluff!"
+    },
+    {
+      "name": "The Dude",
+      "text": "WALTER, FOR CHRIST'S SAKE! HE'S CRIPPLED! PUT HIM DOWN!"
+    },
+    {
+      "name": "Walter",
+      "text": "Sure, I'll put him down, Dude. RAUSS! ACHTUNG, BABY!!"
+    },
+    {
+      "name": "Walter",
+      "text": "Oh, shit."
+    },
+    {
+      "name": "Lebowski",
+      "text": "You're bullies! Cowards, both of you!"
+    },
+    {
+      "name": "Walter",
+      "text": "Oh, shit."
+    },
+    {
+      "name": "The Dude",
+      "text": "He can't walk, Walter!"
+    },
+    {
+      "name": "Walter",
+      "text": "Yeah, I can see that, Dude."
+    },
+    {
+      "name": "Lebowski",
+      "text": "You monsters!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Help me put him back in his chair."
+    },
+    {
+      "name": "Walter",
+      "text": "Shit, sorry man."
+    },
+    {
+      "name": "Lebowski",
+      "text": "Stay away from me! You bullies! You and these women! You won't leave a man his fucking balls!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter, you fuck!"
+    },
+    {
+      "name": "Walter",
+      "text": "Shit, Dude, I didn't know. I wouldn't've done it if I knew he was a fucking crybaby."
+    },
+    {
+      "name": "The Dude",
+      "text": "We're sorry, man. We're really sorry."
+    },
+    {
+      "name": "The Dude",
+      "text": "There ya go. Sorry man."
+    },
+    {
+      "name": "Walter",
+      "text": "Shit.  He didn't look like a spinal."
+    },
+    {
+      "name": "Walter",
+      "text": "Sure you'll see some tank battles. But fighting in desert is very different from fighting in canopy jungle."
+    },
+    {
+      "name": "The Dude",
+      "text": "Uh-huh."
+    },
+    {
+      "name": "Walter",
+      "text": "I mean 'Nam was a foot soldier's war whereas, uh, this thing should be a fucking cakewalk. I mean I had an M16, Jacko, not an Abrams fucking tank. Just me and Charlie, man, eyeball to eyeball."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah."
+    },
+    {
+      "name": "Walter",
+      "text": "That's fuckin' combat. The man in the black pyjamas, Dude. Worthy fuckin' adversary."
+    },
+    {
+      "name": "Donny",
+      "text": "Who's in pyjamas, Walter?"
+    },
+    {
+      "name": "Walter",
+      "text": "Shut the fuck up, Donny. Not a bunch of fig-eaters with towels on their heads tryin' to find reverse on a Soviet tank. This is not a worthy--"
+    },
+    {
+      "name": "The Jesus",
+      "text": "HEY! What's this 'day of rest' shit, man?! What is this bullshit, man? I don't fucking care! It don't matter to Jesus! But you're not fooling me! You might fool the fucks in the league office, but you don't fool Jesus! It's bush league psych-out stuff! Laughable, man! I would've fucked you in the ass Saturday, I'll fuck you in the ass next Wednesday instead!"
+    },
+    {
+      "name": "The Jesus",
+      "text": "You got a date Wednesday, man!"
+    },
+    {
+      "name": "Walter",
+      "text": "He's cracking."
+    },
+    {
+      "name": "Walter",
+      "text": "A tree of life, Dude. To all who cling to it."
+    },
+    {
+      "name": "The Dude",
+      "text": "They finally did it. They killed my fucking car."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "Vee vant zat money, Lebowski."
+    },
+    {
+      "name": "Kieffer",
+      "text": "Ja, uzzervize vee kill ze girl."
+    },
+    {
+      "name": "Franz",
+      "text": "Ja, it seems you forgot our little deal, Lebowski."
+    },
+    {
+      "name": "The Dude",
+      "text": "You don't have the fucking girl, dipshits. We know you never did. So you've got nothin' on my Johnson."
+    },
+    {
+      "name": "Donny",
+      "text": "Are these the Nazis, Walter?"
+    },
+    {
+      "name": "Walter",
+      "text": "They're nihilists, Donny, nothing to be afraid of."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "Vee don't care. Vee still vant zat money or vee fuck you up."
+    },
+    {
+      "name": "Kieffer",
+      "text": "Ja, vee still vant ze money. Vee sreaten you."
+    },
+    {
+      "name": "Walter",
+      "text": "Fuck you.  Fuck the three of you."
+    },
+    {
+      "name": "The Dude",
+      "text": "Hey, cool it Walter."
+    },
+    {
+      "name": "Walter",
+      "text": "There's no ransom if you don't have a fucking hostage. That's what ransom is. Those are the fucking rules."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "Zere ARE no ROOLZ!"
+    },
+    {
+      "name": "Walter",
+      "text": "NO RULES! YOU CABBAGE-EATING SONS-OF-BITCHES--"
+    },
+    {
+      "name": "Kieffer",
+      "text": "His girlfriend gafe up her toe! She sought we'd be getting million dollars! Iss not fair!"
+    },
+    {
+      "name": "Walter",
+      "text": "Fair! WHO'S THE FUCKING NIHILIST HERE! WHAT ARE YOU, A BUNCH OF FUCKING CRYBABIES?!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Hey, cool it Walter. Listen, pal, there never was any money. The big Lebowski gave me an empty briefcase, man, so take it up with him."
+    },
+    {
+      "name": "Walter",
+      "text": "AND I'D LIKE MY UNDIES BACK!"
+    },
+    {
+      "name": "Donny",
+      "text": "Are they gonna hurt us, Walter?"
+    },
+    {
+      "name": "Walter",
+      "text": "They won't hurt us, Donny. These men are cowards."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "Okay. Vee take ze money you haf on you und vee call it eefen."
+    },
+    {
+      "name": "Walter",
+      "text": "Fuck you."
+    },
+    {
+      "name": "The Dude",
+      "text": "Come on, Walter, we're ending this thing cheap."
+    },
+    {
+      "name": "Walter",
+      "text": "What's mine is mine."
+    },
+    {
+      "name": "The Dude",
+      "text": "Come on, Walter!."
+    },
+    {
+      "name": "The Dude",
+      "text": "Four dollars here!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Almost five!"
+    },
+    {
+      "name": "Donny",
+      "text": "I got eighteen dollars, Dude."
+    },
+    {
+      "name": "Walter",
+      "text": "What's mine is mine."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "VEE FUCK YOU UP, MAN! VEE TAKE YOUR MONEY!"
+    },
+    {
+      "name": "Walter",
+      "text": "Come and get it."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "VEE FUCK YOU UP, MAN!"
+    },
+    {
+      "name": "Walter",
+      "text": "Come and get it. Fucking nihilist."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "I FUCK YOU! I FUCK YOU!"
+    },
+    {
+      "name": "Walter",
+      "text": "Show me what you got. Nihilist. Dipshit with a nine-toed woman."
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "I FUCK YOU!  I FUCK YOU!"
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "I FUCK YOU! YOU CANNOT HURT ME! I BELIEF IN NUSSING!"
+    },
+    {
+      "name": "Franz",
+      "text": "VEAKLING!"
+    },
+    {
+      "name": "Uli Kunkel",
+      "text": "NUSSING!"
+    },
+    {
+      "name": "Walter",
+      "text": "ANTI-SEMITE!"
+    },
+    {
+      "name": "Walter",
+      "text": "We've got a man down, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "Hy God! They shot him, Walter!"
+    },
+    {
+      "name": "Walter",
+      "text": "No Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "They shot Donny!"
+    },
+    {
+      "name": "Walter",
+      "text": "There weren't any shots."
+    },
+    {
+      "name": "The Dude",
+      "text": "Then what's..."
+    },
+    {
+      "name": "Walter",
+      "text": "It's a heart attack."
+    },
+    {
+      "name": "The Dude",
+      "text": "Wha."
+    },
+    {
+      "name": "Walter",
+      "text": "Call the medics, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "Wha. . . Donny--"
+    },
+    {
+      "name": "Walter",
+      "text": "Hurry Dude. I'd go but I'm pumping blood. Might pass out."
+    },
+    {
+      "name": "Walter",
+      "text": "Rest easy, good buddy, you're doing fine. We got help choppering in."
+    },
+    {
+      "name": "Donnelly",
+      "text": "Hello, gentlemen. You are the bereaved?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah man."
+    },
+    {
+      "name": "Donnelly",
+      "text": "Francis Donnelly. Pleased to meet you."
+    },
+    {
+      "name": "The Dude",
+      "text": "Jeffrey Lebowski."
+    },
+    {
+      "name": "Walter",
+      "text": "Walter Sobchak."
+    },
+    {
+      "name": "The Dude",
+      "text": "The Dude, actually. Is what, uh."
+    },
+    {
+      "name": "Donnelly",
+      "text": "Excuse me?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Nothing."
+    },
+    {
+      "name": "Donnelly",
+      "text": "Yes. I understand you're taking away the remains."
+    },
+    {
+      "name": "Walter",
+      "text": "Yeah."
+    },
+    {
+      "name": "Donnelly",
+      "text": "We have the urn."
+    },
+    {
+      "name": "Donnelly",
+      "text": "And I assume this is credit card?"
+    },
+    {
+      "name": "Walter",
+      "text": "Yeah."
+    },
+    {
+      "name": "Walter",
+      "text": "What's this?"
+    },
+    {
+      "name": "Donnelly",
+      "text": "That is for the urn."
+    },
+    {
+      "name": "Walter",
+      "text": "Don't need it.  We're scattering the ashes."
+    },
+    {
+      "name": "Donnelly",
+      "text": "Yes, so we were informed. However, we must of course transmit the remains to you in a receptacle."
+    },
+    {
+      "name": "Walter",
+      "text": "This is a hundred and eighty dollars."
+    },
+    {
+      "name": "Donnelly",
+      "text": "Yes sir.  It is our most modestly priced receptacle."
+    },
+    {
+      "name": "The Dude",
+      "text": "Well can we--"
+    },
+    {
+      "name": "Walter",
+      "text": "A hundred and eighty dollars?!"
+    },
+    {
+      "name": "Donnelly",
+      "text": "They range up to three thousand."
+    },
+    {
+      "name": "Walter",
+      "text": "Yeah, but we're--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Can we just rent it from you?"
+    },
+    {
+      "name": "Donnelly",
+      "text": "Sir, this is a mortuary, not a rental house."
+    },
+    {
+      "name": "Walter",
+      "text": "We're scattering the fucking ashes!"
+    },
+    {
+      "name": "The Dude",
+      "text": "Walter--"
+    },
+    {
+      "name": "Walter",
+      "text": "JUST BECAUSE WE'RE BEREAVED DOESN'T MEAN WE'RE SAPS!"
+    },
+    {
+      "name": "Donnelly",
+      "text": "Sir, please lower your voice--"
+    },
+    {
+      "name": "The Dude",
+      "text": "Hey man, don't you have something else you could put it in?"
+    },
+    {
+      "name": "Donnelly",
+      "text": "That is our most modestly priced receptacle."
+    },
+    {
+      "name": "Walter",
+      "text": "GODDAMNIT!  IS THERE A RALPH'S AROUND HERE?!"
+    },
+    {
+      "name": "Walter",
+      "text": "I'll say a few words."
+    },
+    {
+      "name": "Walter",
+      "text": "Donny was a good bowler, and a good man. He was. . . He was one of us. He was a man who loved the outdoors, and bowling, and as a surfer explored the beaches of southern California from Redondo to Calabassos.  And he was an avid bowler.  And a good friend.  He died--he died as so many of his generation, before his time. In your wisdom you took him, Lord. As you took so many bright flowering young men, at Khe San and Lan Doc and Hill 364.  These young men gave their lives.  And Donny too.  Donny who. . . who loved bowling."
+    },
+    {
+      "name": "Walter",
+      "text": "And so, Theodore--Donald--Karabotsos, in accordance with what we think your dying wishes might well have been, we commit your mortal remains to the bosom of the Pacific Ocean, which you loved so well."
+    },
+    {
+      "name": "Walter",
+      "text": "Goodnight, sweet prince."
+    },
+    {
+      "name": "Walter",
+      "text": "Shit, I'm sorry Dude."
+    },
+    {
+      "name": "Walter",
+      "text": "Goddamn wind."
+    },
+    {
+      "name": "The Dude",
+      "text": "Goddamnit Walter! You fucking asshole!"
+    },
+    {
+      "name": "Walter",
+      "text": "Dude! Dude, I'm sorry!"
+    },
+    {
+      "name": "The Dude",
+      "text": "You make everything a fucking travesty!"
+    },
+    {
+      "name": "Walter",
+      "text": "Dude, I'm--it was an accident!"
+    },
+    {
+      "name": "The Dude",
+      "text": "What about that shit about Vietnam!"
+    },
+    {
+      "name": "Walter",
+      "text": "Dude, I'm sorry--"
+    },
+    {
+      "name": "The Dude",
+      "text": "What the fuck does Vietnam have to do with anything! What the fuck were you talking about?!"
+    },
+    {
+      "name": "Walter",
+      "text": "Shit Dude, I'm sorry--"
+    },
+    {
+      "name": "The Dude",
+      "text": "You're a fuck, Walter!"
+    },
+    {
+      "name": "Walter",
+      "text": "Awww, fuck it Dude.  Let's go bowling."
+    },
+    {
+      "name": "The Dude",
+      "text": "Two oat sodas, Gary."
+    },
+    {
+      "name": "Gary",
+      "text": "Right.  Good luck tomorrow."
+    },
+    {
+      "name": "The Dude",
+      "text": "Thanks, man."
+    },
+    {
+      "name": "Gary",
+      "text": "Sorry to hear about Donny."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah.  Well, you know, sometimes you eat the bear, and, uh."
+    },
+    {
+      "name": "The Stranger",
+      "text": "Howdy do, Dude."
+    },
+    {
+      "name": "The Dude",
+      "text": "Oh, hey man, how are ya? I wondered if I'd see you again."
+    },
+    {
+      "name": "The Stranger",
+      "text": "Wouldn't miss the semis. How things been goin'?"
+    },
+    {
+      "name": "The Dude",
+      "text": "Ahh, you know. Strikes and gutters, ups and downs."
+    },
+    {
+      "name": "The Stranger",
+      "text": "Sure, I gotcha."
+    },
+    {
+      "name": "The Dude",
+      "text": "Thanks, Gary...Take care, man, I gotta get back."
+    },
+    {
+      "name": "The Stranger",
+      "text": "Sure. Take it easy, Dude--I know that you will."
+    },
+    {
+      "name": "The Dude",
+      "text": "Yeah man. Well, you know, the Dude abides."
+    },
+    {
+      "name": "The Stranger",
+      "text": "The Dude abides."
+    },
+    {
+      "name": "The Stranger",
+      "text": "I don't know about you, but I take comfort in that. It's good knowin' he's out there, the Dude, takin' her easy for all us sinners. Shoosh. I sure hope he makes The finals. Welp, that about does her, wraps her all up. Things seem to've worked out pretty good for the Dude'n Walter, and it was a purt good story, dontcha think? Made me laugh to beat the band. Parts, anyway. Course--I didn't like seein' Donny go. But then, happen to know that there's a little Lebowski on the way. I guess that's the way the whole durned human comedy keeps perpetuatin' it-self, down through the generations, westward the wagons, across the sands a time until-- aw, look at me, I'm ramblin'again. Wal, uh hope you folks enjoyed yourselves."
+    },
+    {
+      "name": "The Stranger",
+      "text": "Catch ya further on down the trail."
+    },
+    {
+      "name": "The Stranger",
+      "text": "...Say friend, ya got any more a that good sarsaparilla?..."
+    }
+  ]
+}
