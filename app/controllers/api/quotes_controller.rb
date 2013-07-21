@@ -1,5 +1,4 @@
 class Api::QuotesController < ApplicationController
-
   def show
     @quote = Quote.where(id: params[:id]).first
     if @quote

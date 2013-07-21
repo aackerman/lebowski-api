@@ -8,5 +8,6 @@ Bundler.require(:default, Rails.env)
 
 module LebowskiApi
   class Application < Rails::Application
+    config.exceptions_app = self.routes
   end
 end

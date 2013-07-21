@@ -1,18 +1,26 @@
-set :application, "set your application name here"
-set :repository,  "set your repository location here"
+set :application, "lebowski-api"
+set :repository,  "git@github.com:aackerman/lebowski-api.git"
+set :user, "deploy"
 
-role :web, "your web-server here"                          # Your HTTP server, Apache/etc
-role :app, "your app-server here"                          # This may be the same as your `Web` server
-role :db,  "your primary db-server here", :primary => true # This is where Rails migrations will run
+default_run_options[:pty] = true
+set :use_sudo, false
+
+server "lebowski.me", :app, :web, :db, :primary => true
+set :deploy_to, "/var/www/lebowski-api"
+
+set :branch, "master"
+
+set :deploy_via, :remote_cache
+set :ssh_options, :forward_agent => true
 
 # if you want to clean up old releases on each deploy uncomment this:
-# after "deploy:restart", "deploy:cleanup"
+after "deploy:restart", "deploy:cleanup"
 
 # If you are using Passenger mod_rails uncomment this:
-# namespace :deploy do
-#   task :start do ; end
-#   task :stop do ; end
-#   task :restart, :roles => :app, :except => { :no_release => true } do
-#     run "#{try_sudo} touch #{File.join(current_path,'tmp','restart.txt')}"
-#   end
-# end
+namespace :deploy do
+  task :start do ; end
+  task :stop do ; end
+  task :restart, :roles => :app, :except => { :no_release => true } do
+    run "#{try_sudo} touch #{File.join(current_path,'tmp','restart.txt')}"
+  end
+end
