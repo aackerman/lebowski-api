@@ -1,3 +1,5 @@
+require 'bundler/capistrano'
+
 set :application, "lebowski-api"
 set :repository,  "git@github.com:aackerman/lebowski-api.git"
 set :user, "deploy"
