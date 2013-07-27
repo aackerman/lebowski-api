@@ -1,4 +1,4 @@
 class LineSerializer < ActiveModel::Serializer
-  attributes :text, :id
+  attributes :id, :text
   has_one :character
 end
