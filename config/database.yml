@@ -14,11 +14,3 @@ test:
   timeout: 5000
   username: lebowski
   password: lebowski
-
-production:
-  adapter: postgresql
-  database: lebowski-production
-  pool: 5
-  timeout: 5000
-  username: lebowski
-  password: HQAI32t$6T$$@dA134kfjd9888eke89d
