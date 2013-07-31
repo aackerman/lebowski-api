@@ -9,6 +9,6 @@ class Api::QuotesController < ApplicationController
   end
 
   def random
-    render :json => Quote.includes(lines: [:character]).order('random()').first
+    render :json => Quote.order('random()').first
   end
 end
