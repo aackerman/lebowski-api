@@ -9,4 +9,8 @@ class Api::LinesController < ApplicationController
     end
   end
 
+  def random
+    render :json => Line.includes(:character).order('random()').first
+  end
+
 end
