@@ -1,11 +1,6 @@
 class Api::QuotesController < ApplicationController
   def show
-    @quote = Quote.where(id: params[:id]).first
-    if @quote
-      render :json => @quote
-    else
-      render :json => { status: "Error", message: "Quote does not exist" }
-    end
+    render json: Quote.find params[:id]
   end
 
   def random
