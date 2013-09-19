@@ -9,11 +9,7 @@ class ApplicationController < ActionController::API
   protected
 
   def record_not_found(error)
-    klass = error_class(error)
-    render json: {
-      error: klass,
-      description: error.message
-    }
+    render json: { error: error_class(error), description: error.message }
   end
 
   def error_class(e)
