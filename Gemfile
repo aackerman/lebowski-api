@@ -11,3 +11,11 @@ gem "active_model_serializers"
 gem 'capistrano', :group => :development
 gem 'rvm-capistrano'
 gem 'pg_search'
+
+group :test do
+  gem 'rspec'
+end
+
+group :test, :development do
+  gem 'rspec-rails'
+end
