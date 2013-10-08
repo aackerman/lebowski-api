@@ -3,6 +3,6 @@ class QuoteSerializer < ActiveModel::Serializer
   has_many :lines
 
   def lines
-    object.lines.includes(:character).order("id ASC")
+    object.lines.includes(:character, :quote).order("id ASC")
   end
 end
