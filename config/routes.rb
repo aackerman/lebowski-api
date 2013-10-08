@@ -4,6 +4,7 @@ LebowskiApi::Application.routes.draw do
     get 'quotes/:id',    to: 'quotes#show',  as: 'quote'
     get 'lines/random',  to: 'lines#random'
     get 'lines/:id',     to: 'lines#show',   as: 'line'
+    get 'search',        to: 'search#show'
   end
 
   root to: 'application#redirect'

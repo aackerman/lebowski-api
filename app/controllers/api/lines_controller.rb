@@ -4,6 +4,6 @@ class Api::LinesController < ApplicationController
   end
 
   def random
-    render :json => Line.order('random()').first
+    render :json => Line.random
   end
 end
