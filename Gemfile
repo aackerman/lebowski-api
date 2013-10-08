@@ -10,3 +10,4 @@ gem 'jbuilder'
 gem "active_model_serializers"
 gem 'capistrano', :group => :development
 gem 'rvm-capistrano'
+gem 'pg_search'
