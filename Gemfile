@@ -2,19 +2,21 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.0.0'
 
-gem 'rails-api'
+gem 'rails-api',                '~> 0.1.0'
+gem 'pg',                       '~> 0.15.1'
+gem 'pg_search',                '~> 0.7.0'
+gem 'active_model_serializers', '~> 0.8.1'
 
-gem 'pg'
-gem 'puma'
-gem "active_model_serializers"
-gem 'capistrano', :group => :development
-gem 'rvm-capistrano'
-gem 'pg_search'
+group :development do
+  gem 'puma',           '~> 2.3.2'
+  gem 'rvm-capistrano', '~> 1.4.1'
+  gem 'capistrano',     '~> 2.15.5'
+end
 
 group :test do
-  gem 'rspec'
+  gem 'rspec', '~> 2.14.1'
 end
 
 group :test, :development do
-  gem 'rspec-rails'
+  gem 'rspec-rails', '~> 2.14.0'
 end

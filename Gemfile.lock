@@ -122,13 +122,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  active_model_serializers
-  capistrano
-  pg
-  pg_search
-  puma
+  active_model_serializers (~> 0.8.1)
+  capistrano (~> 2.15.5)
+  pg (~> 0.15.1)
+  pg_search (~> 0.7.0)
+  puma (~> 2.3.2)
   rails (= 4.0.0)
-  rails-api
-  rspec
-  rspec-rails
-  rvm-capistrano
+  rails-api (~> 0.1.0)
+  rspec (~> 2.14.1)
+  rspec-rails (~> 2.14.0)
+  rvm-capistrano (~> 1.4.1)
