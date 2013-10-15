@@ -1,9 +1,9 @@
 LebowskiApi::Application.routes.draw do
   namespace :api do
-    get 'quotes/random', to: 'quotes#random'
-    get 'quotes/:id',    to: 'quotes#show',  as: 'quote'
+    resources :quotes, only: [:show]
+    get 'random', to: 'quotes#random'
+    resources :lines, only: [:show]
     get 'lines/random',  to: 'lines#random'
-    get 'lines/:id',     to: 'lines#show',   as: 'line'
     get 'search',        to: 'search#show'
   end
 
