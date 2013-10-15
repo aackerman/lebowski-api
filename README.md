@@ -1,7 +1,7 @@
 # [lebowski.me](http://lebowski.me)
 [![Build Status](https://travis-ci.org/aackerman/lebowski-api.png?branch=master)](https://travis-ci.org/aackerman/lebowski-api)
 
-A small rails app for serving up information from The Big Lebowski
+A small rails app for serving up information from [The Big Lebowski](http://en.wikipedia.org/wiki/The_Big_Lebowski)
 
 ## Author
 
