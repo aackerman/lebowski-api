@@ -10,7 +10,3 @@ development:
 test:
   adapter: postgresql
   database: lebowski-test
-  pool: 5
-  timeout: 5000
-  username: lebowski
-  password:
