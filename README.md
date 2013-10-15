@@ -1,4 +1,5 @@
 # [lebowski.me](http://lebowski.me)
+![Travis CI Status](https://travis-ci.org/aackerman/lebowski-api.png)
 
 A small rails app for serving up information from The Big Lebowski
 
