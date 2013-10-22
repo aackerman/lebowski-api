@@ -1,3 +1,3 @@
-class CharacterSerializer < ActiveModel::Serializer
+class CharacterSerializer < ApplicationSerializer
   attributes :name
 end

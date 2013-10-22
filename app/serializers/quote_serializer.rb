@@ -1,4 +1,4 @@
-class QuoteSerializer < ActiveModel::Serializer
+class QuoteSerializer < ApplicationSerializer
   attributes :id
   has_many :lines
 
