@@ -1,6 +1,6 @@
 class Api::SearchController < ApplicationController
   def show
-    lines = Line.search(params[:term]).includes(:quote).select {|l| l.quote.present? }
+    lines = Line.search(params[:term]).joins(:quote)
     if lines.any?
       render json: lines.map(&:quote)
     else
