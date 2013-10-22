@@ -1,5 +1,5 @@
 class Api::ScriptController < ApplicationController
   def show
-    render json: Line.all, root: :script
+    render json: Line.includes(:character, :quote).to_a, root: :script
   end
 end
