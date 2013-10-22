@@ -36,6 +36,7 @@ GEM
       net-sftp (>= 2.0.0)
       net-ssh (>= 2.0.14)
       net-ssh-gateway (>= 1.1.0)
+    dalli (2.6.4)
     diff-lcs (1.2.4)
     erubis (2.7.0)
     highline (1.6.19)
@@ -126,6 +127,7 @@ PLATFORMS
 DEPENDENCIES
   active_model_serializers (~> 0.8.1)
   capistrano (~> 2.15.5)
+  dalli (~> 2.6.4)
   nyan-cat-formatter
   pg (~> 0.15.1)
   pg_search (~> 0.7.0)
