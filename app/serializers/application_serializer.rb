@@ -4,6 +4,7 @@ class ApplicationSerializer < ActiveModel::Serializer
 
   # Cache entire JSON string
   def to_json(*args)
+    Rails.logger.info 'to_json cached'
     Rails.cache.fetch expand_cache_key(self.class.to_s.underscore, cache_key, 'to-json') do
       super
     end
