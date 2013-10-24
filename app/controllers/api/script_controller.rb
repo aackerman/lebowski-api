@@ -1,5 +1,11 @@
 class Api::ScriptController < ApplicationController
   def show
-    render json: Script.new(Line.includes(:character, :quote).to_a)
+    @script = Rails.cache.fetch ['script', 'to-json'] do
+      @lines = Line.includes(:character, :quote).map do |l|
+        LineSerializer.new(l, root: false)
+      end
+      { script: @lines }.to_json
+    end
+    render json: @script
   end
 end
