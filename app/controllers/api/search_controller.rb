@@ -1,6 +1,10 @@
 class Api::SearchController < ApplicationController
   def show
-    @searches = Line.search(params[:term]).joins(:quote).includes(:character, :quote).map(&:quote).uniq!
-    render json: @searches, root: :searches
+    lines = Line.search(params[:term]).includes(:quote).select {|l| l.quote.present? }
+    if lines.any?
+      render json: lines.first.quote
+    else
+      render json: Quote.random
+    end
   end
 end
