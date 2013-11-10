@@ -34,6 +34,10 @@ GEM
       i18n
       rake (>= 10.0.0)
       sshkit (>= 0.0.23)
+    capistrano-bundler (1.0.0)
+      capistrano (>= 3.0.0.pre)
+    capistrano-rails (1.0.0)
+      capistrano
     capistrano-rvm (0.0.3)
       capistrano
     dalli (2.6.4)
@@ -127,6 +131,8 @@ PLATFORMS
 DEPENDENCIES
   active_model_serializers (~> 0.8.1)
   capistrano (~> 3.0.1)
+  capistrano-bundler (~> 1.0.0)
+  capistrano-rails (~> 1.0.0)
   capistrano-rvm (~> 0.0.3)
   dalli (~> 2.6.4)
   nyan-cat-formatter

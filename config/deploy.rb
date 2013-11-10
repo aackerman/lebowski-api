@@ -1,35 +1,26 @@
-require "rvm/capistrano"
-require 'bundler/capistrano'
-
-set :application, "lebowski-api"
-set :repository,  "git@github.com:aackerman/lebowski-api.git"
-set :user, "deploy"
-
-default_run_options[:pty] = true
-set :use_sudo, false
-
-server "lebowski.me", :app, :web, :db, :primary => true
-set :deploy_to, "/var/www/lebowski-api"
-
-set :branch, "master"
-
+set :application, 'lebowski-api'
+set :repo_url, 'git@github.com:aackerman/lebowski-api.git'
+set :user, 'deploy'
+set :pty, true
+ask :branch, 'master'
+set :keep_releases, 5
+set :deploy_to, '/var/www/lebowski-api'
 set :deploy_via, :remote_cache
 set :ssh_options, :forward_agent => true
+role :all, %w{lebowski.me}
+role :app, %w{lebowski.me}
+role :web, %w{lebowski.me}
+role :db, %w{lebowski.me}
+set :linked_files, %w{config/database.yml}
+set :linked_dirs, %w{log}
 
-# if you want to clean up old releases on each deploy uncomment this:
-after "deploy:restart", "deploy:cleanup"
-after 'deploy:update_code', 'deploy:symlink_shared'
-
-# If you are using Passenger mod_rails uncomment this:
 namespace :deploy do
-  task :start do ; end
-  task :stop do ; end
-  task :restart, :roles => :app, :except => { :no_release => true } do
-    run "#{try_sudo} touch #{File.join(current_path,'tmp','restart.txt')}"
+  desc 'Restart application'
+  task :restart do
+    on roles(:app), in: :sequence, wait: 5 do
+      execute :touch, release_path.join('tmp/restart.txt')
+    end
   end
 
-  desc "Symlink shared configs and folders on each release."
-  task :symlink_shared do
-    run "ln -nfs #{shared_path}/config/database.yml #{release_path}/config/database.yml"
-  end
+  after :finishing, 'deploy:cleanup'
 end
