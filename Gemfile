@@ -9,8 +9,8 @@ gem 'active_model_serializers', '~> 0.8.1'
 
 group :development do
   gem 'puma',           '~> 2.3.2'
-  gem 'rvm-capistrano', '~> 1.4.1'
-  gem 'capistrano',     '~> 2.15.5'
+  gem 'capistrano-rvm', '~> 0.0.3'
+  gem 'capistrano',     '~> 3.0.1'
 end
 
 group :production do
