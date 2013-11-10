@@ -4,6 +4,7 @@ LebowskiApi::Application.routes.draw do
     get 'quotes/random', to: 'quotes#random'
     get 'quotes/search', to: 'quotes#search'
     resources :quotes, only: [:show]
+    get 'lines/search',  to: 'lines#search'
     get 'lines/random',  to: 'lines#random'
     resources :lines, only: [:show]
     get 'search',        to: 'search#show'
