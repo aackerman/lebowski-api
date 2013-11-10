@@ -9,8 +9,11 @@ class Search
 
   def initialize(term)
     @term = term
-    lines = Line.search(@term).includes(:quote).where(Line.arel_table[:quote_id].not_eq(nil))
-    @results = lines.map(&:quote).uniq
+    @results = search
+  end
+
+  def search
+    raise "Not implemented"
   end
 
   def has_results
