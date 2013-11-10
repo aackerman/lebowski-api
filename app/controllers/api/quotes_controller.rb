@@ -3,6 +3,15 @@ class Api::QuotesController < ApplicationController
     render json: Quote.find(params[:id])
   end
 
+  def search
+    search = QuoteSearch.new(params[:term])
+    if search.valid?
+      render json: search.results, root: :results
+    else
+      render json: { errors: search.errors }
+    end
+  end
+
   def random
     render :json => Quote.random
   end
