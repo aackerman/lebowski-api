@@ -8,9 +8,11 @@ gem 'pg_search',                '~> 0.7.0'
 gem 'active_model_serializers', '~> 0.8.1'
 
 group :development do
-  gem 'puma',           '~> 2.3.2'
-  gem 'capistrano-rvm', '~> 0.0.3'
-  gem 'capistrano',     '~> 3.0.1'
+  gem 'puma',                   '~> 2.3.2'
+  gem 'capistrano',             '~> 3.0.1'
+  gem 'capistrano-rvm',         '~> 0.0.3'
+  gem 'capistrano-rails',       '~> 1.0.0'
+  gem 'capistrano-bundler',     '~> 1.0.0'
 end
 
 group :production do
