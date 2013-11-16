@@ -8,7 +8,7 @@ class Search
   validate  :has_results
 
   def initialize(term)
-    @term = term
+    @term    = term
     @results = search
   end
 
