@@ -8,11 +8,15 @@ class ApplicationController < ActionController::API
 
   protected
 
-  def record_not_found(error)
-    render json: { error: error_class(error), description: error.message }
+  def record_not_found(e)
+    render json: {
+      errors: [{
+        error_class(e) => [e.message]
+      }]
+    }, status: 404
   end
 
   def error_class(e)
-    e.class.to_s.split('::').last
+    e.class.to_s.split('::').last.to_sym
   end
 end
