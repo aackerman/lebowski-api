@@ -9,7 +9,7 @@ LebowskiApi::Application.configure do
   # Do not eager load code on boot.
   config.eager_load = false
 
-  config.cache_store = :dalli_store
+  config.cache_store = :memory_store
 
   # Show full error reports and disable caching.
   config.consider_all_requests_local       = true
