@@ -16,6 +16,8 @@ class Search
     raise "Not implemented"
   end
 
+  private
+
   def has_results
     unless @results.any?
       errors.add(:results, 'No results')
