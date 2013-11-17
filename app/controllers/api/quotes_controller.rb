@@ -13,6 +13,6 @@ class Api::QuotesController < ApplicationController
   end
 
   def random
-    render :json => Quote.random
+    render json: Quote.random
   end
 end

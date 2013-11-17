@@ -13,6 +13,6 @@ class Api::LinesController < ApplicationController
   end
 
   def random
-    render :json => Line.random
+    render json: Line.random
   end
 end
