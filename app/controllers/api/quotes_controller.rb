@@ -8,7 +8,7 @@ class Api::QuotesController < ApplicationController
     if search.valid?
       render json: search.results, root: :results
     else
-      render json: { errors: search.errors }
+      render json: { results: [] }
     end
   end
 
