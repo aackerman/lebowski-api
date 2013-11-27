@@ -2,7 +2,7 @@ class ErrorsController < ApplicationController
   def not_found
     render json: {
       errors: [{
-          routes: ['does not exist']
+        routes: ['does not exist']
       }]
     }, status: 404
   end
@@ -10,7 +10,7 @@ class ErrorsController < ApplicationController
   def exception
     render json: {
       errors: [{
-          server: ['an uncaught exception']
+        server: ['an uncaught exception']
       }]
     }, status: 500
   end
