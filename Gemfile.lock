@@ -38,7 +38,7 @@ GEM
       capistrano (>= 3.0.0.pre)
     capistrano-rails (1.0.0)
       capistrano
-    capistrano-rvm (0.1.0)
+    capistrano-rbenv (2.0.0)
       capistrano (~> 3.0)
       sshkit (~> 1.2.0)
     dalli (2.6.4)
@@ -134,7 +134,7 @@ DEPENDENCIES
   capistrano (~> 3.0.1)
   capistrano-bundler (~> 1.0.0)
   capistrano-rails (~> 1.0.0)
-  capistrano-rvm (~> 0.1.0)
+  capistrano-rbenv (~> 2.0.0)
   dalli (~> 2.6.4)
   nyan-cat-formatter
   pg (~> 0.15.1)
