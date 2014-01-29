@@ -3,6 +3,19 @@
 
 A small rails app for serving up information from [The Big Lebowski](http://en.wikipedia.org/wiki/The_Big_Lebowski)
 
+## Routes
+
+```
+/api/script
+/api/quotes/random
+/api/quotes/search?term=that+poor+woman
+/api/quotes/:id
+/api/lines/search?term=mountain
+/api/lines/random
+/api/lines/:id
+/api/search?term=mountain # alias for /api/quotes/search
+```
+
 ## Author
 
 | [![twitter/_aaronackerman_](http://gravatar.com/avatar/c73ff9c7e654647b2b339d9e08b52143?s=70)](http://twitter.com/_aaronackerman_ "Follow @_aaronackerman_ on Twitter") |
