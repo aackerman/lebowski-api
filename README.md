@@ -16,7 +16,7 @@ A small rails app for serving up information from [The Big Lebowski](http://en.w
 /api/search?term=mountain # alias for /api/quotes/search
 ```
 
-## Using curl
+## Using cURL
 
 ```shell
 curl -L http://lebowski.me
