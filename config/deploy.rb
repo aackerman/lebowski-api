@@ -9,7 +9,6 @@ set :pty,           true
 set :keep_releases, 5
 set :linked_files,  %w{config/database.yml}
 set :linked_dirs,   %w{log}
-role :all,          %w{lebowski.me}
 role :app,          %w{lebowski.me}
 role :web,          %w{lebowski.me}
 role :db,           %w{lebowski.me}
