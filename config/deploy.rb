@@ -1,7 +1,7 @@
 set :user,          'deploy'
 set :branch,        'master'
 set :application,   'lebowski-api'
-set :deploy_to,     '/var/www/lebowski-api'
+set :deploy_to,     '/srv/www/lebowski-api'
 set :repo_url,      'git@github.com:aackerman/lebowski-api.git'
 set :deploy_via,    :remote_cache
 set :ssh_options,   forward_agent: true
