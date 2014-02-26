@@ -21,6 +21,5 @@ end
 
 group :test do
   gem 'rspec',                  '~> 2.14.1'
-  gem 'nyan-cat-formatter'
   gem 'rspec-rails',            '~> 2.14.0'
 end
