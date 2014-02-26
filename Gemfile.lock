@@ -55,8 +55,6 @@ GEM
     net-scp (1.1.2)
       net-ssh (>= 2.6.5)
     net-ssh (2.8.0)
-    nyan-cat-formatter (0.5.2)
-      rspec (>= 2.13)
     pg (0.17.1)
     pg_search (0.7.3)
       activerecord (>= 3.1)
@@ -137,7 +135,6 @@ DEPENDENCIES
   capistrano-rails (~> 1.0.0)
   capistrano-rbenv (~> 2.0.0)
   dalli (~> 2.6.4)
-  nyan-cat-formatter
   pg (~> 0.17.1)
   pg_search (~> 0.7.0)
   puma (~> 2.7.1)
