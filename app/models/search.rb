@@ -4,23 +4,10 @@ class Search
   attr_reader :results
   attr_reader :term
 
-  validates :term, presence: true
-  validate  :has_results
-
   def initialize(term)
-    @term    = term
-    @results = search
+    @term    = term   || ""
+    @results = search || []
   end
 
-  def search
-    raise "Not implemented"
-  end
-
-  private
-
-  def has_results
-    unless @results.any?
-      errors.add(:results, 'No results')
-    end
-  end
+  def search; end
 end
