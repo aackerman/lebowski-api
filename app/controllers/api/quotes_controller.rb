@@ -4,12 +4,7 @@ class Api::QuotesController < ApplicationController
   end
 
   def search
-    search = QuoteSearch.new(params[:term])
-    if search.valid?
-      render json: search.results, root: :results
-    else
-      render json: { results: [] }
-    end
+    render json: QuoteSearch.new(params[:term]).results, root: :results
   end
 
   def random
