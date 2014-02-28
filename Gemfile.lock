@@ -61,7 +61,7 @@ GEM
       activesupport (>= 3.1)
       arel
     polyglot (0.3.4)
-    puma (2.7.1)
+    puma (2.8.0)
       rack (>= 1.1, < 2.0)
     rack (1.5.2)
     rack-test (0.6.2)
@@ -137,7 +137,7 @@ DEPENDENCIES
   dalli (~> 2.6.4)
   pg (~> 0.17.1)
   pg_search (~> 0.7.0)
-  puma (~> 2.7.1)
+  puma (~> 2.8.0)
   rails (= 4.0.3)
   rails-api (~> 0.2.0)
   rspec (~> 2.14.1)
