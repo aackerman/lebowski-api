@@ -26,7 +26,7 @@ curl -L http://lebowski.me
 [lebowski](https://github.com/aackerman/lebowski)
 
 ```shell
-npm install -g lebowski
+npm i -g lebowski
 ```
 
 ## Author
