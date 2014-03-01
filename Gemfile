@@ -15,10 +15,6 @@ group :development do
   gem 'capistrano-bundler',     '~> 1.0.0'
 end
 
-group :production do
-  gem 'dalli',                  '~> 2.6.4'
-end
-
 group :test do
   gem 'rspec',                  '~> 2.14.1'
   gem 'rspec-rails',            '~> 2.14.0'
