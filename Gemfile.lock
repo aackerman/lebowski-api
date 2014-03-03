@@ -134,7 +134,7 @@ DEPENDENCIES
   capistrano-rails (~> 1.0.0)
   capistrano-rbenv (~> 2.0.0)
   pg (~> 0.17.1)
-  pg_search (~> 0.7.0)
+  pg_search (~> 0.7.3)
   puma (~> 2.8.0)
   rails (= 4.0.3)
   rails-api (~> 0.2.0)

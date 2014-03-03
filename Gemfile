@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rails',                    '4.0.3'
 gem 'rails-api',                '~> 0.2.0'
 gem 'pg',                       '~> 0.17.1'
-gem 'pg_search',                '~> 0.7.0'
+gem 'pg_search',                '~> 0.7.3'
 gem 'active_model_serializers', '~> 0.8.1'
 
 group :development do
