@@ -7,7 +7,6 @@ gem 'pg_search',                '~> 0.7.3'
 gem 'active_model_serializers', '~> 0.8.1'
 
 group :development do
-  gem 'spring',                 '~> 1.1.1'
   gem 'puma',                   '~> 2.8.0'
   gem 'capistrano',             '~> 3.1.0'
   gem 'capistrano-rbenv',       '~> 2.0.2'
