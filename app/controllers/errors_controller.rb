@@ -2,7 +2,7 @@ class ErrorsController < ApplicationController
   def not_found
     render json: {
       errors: [{
-        routes: ['does not exist']
+        route: ['does not exist']
       }]
     }, status: 404
   end
