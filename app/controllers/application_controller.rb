@@ -1,12 +1,17 @@
 class ApplicationController < ActionController::API
 
   rescue_from ActiveRecord::RecordNotFound, with: :record_not_found
+  rescue_from ActionController::RoutingError, with: :redirect_to_404
 
   def redirect
     redirect_to api_quotes_random_url
   end
 
   protected
+
+  def redirect_to_404
+    redirect_to '404'
+  end
 
   def record_not_found(e)
     render json: {
