@@ -8,7 +8,7 @@ gem 'active_model_serializers', '~> 0.8.1'
 gem 'statsd-ruby',              '~> 1.2.1'
 
 group :development do
-  gem 'puma',                   '~> 2.8.0'
+  gem 'puma',                   '~> 2.8.2'
   gem 'capistrano',             '~> 3.1.0'
   gem 'capistrano-rbenv',       '~> 2.0.2'
   gem 'capistrano-rails',       '~> 1.1.1'
