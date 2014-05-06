@@ -20,11 +20,13 @@ class CreateLinesQuotes < ActiveRecord::Migration
 
   def down
     drop_table :lines_quotes
-    alter table lines add column quote_id;
-    alter table lines alter column text drop not null;
-    alter table lines alter column created_at drop not null;
-    alter table lines alter column updated_at drop not null;
-    alter table quotes alter column created_at drop not null;
-    alter table quotes alter column updated_at drop not null;
+    execute <<-SQL
+      alter table lines add column quote_id;
+      alter table lines alter column text drop not null;
+      alter table lines alter column created_at drop not null;
+      alter table lines alter column updated_at drop not null;
+      alter table quotes alter column created_at drop not null;
+      alter table quotes alter column updated_at drop not null;
+    SQL
   end
 end
