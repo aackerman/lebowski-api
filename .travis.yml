@@ -3,3 +3,4 @@ rvm:
   - 2.1.1
 before_script:
   - rake db:create
+cache: bundler
