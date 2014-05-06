@@ -1,6 +1,6 @@
 class ApplicationSerializer < ActiveModel::Serializer
   cached
-  delegate :cache_key, :to => :object
+  delegate :cache_key, to: :object
 
   # Cache entire JSON string
   def to_json(*args)
