@@ -1,6 +1,10 @@
 class QuoteSearch < Search
   def search
-    lines = Line.search(@term).includes(:quote).where(Line.arel_table[:quote_id].not_eq(nil))
-    lines.map(&:quote).uniq
+    lines = Line.search(@term).joins(:quotes)
+    if line = lines.sample
+      line.quotes.sample
+    else
+      []
+    end
   end
 end
