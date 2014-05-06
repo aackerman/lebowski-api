@@ -32,11 +32,10 @@ ActiveRecord::Schema.define(version: 20140506013444) do
   end
 
   create_table "lines", force: true do |t|
-    t.text     "text"
+    t.text     "text",         null: false
     t.integer  "character_id"
-    t.integer  "quote_id"
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",   null: false
+    t.datetime "updated_at",   null: false
   end
 
   create_table "lines_quotes", id: false, force: true do |t|
@@ -46,8 +45,8 @@ ActiveRecord::Schema.define(version: 20140506013444) do
 
   create_table "quotes", force: true do |t|
     t.string   "image"
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
 end
