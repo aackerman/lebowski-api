@@ -9,7 +9,7 @@ gem 'statsd-ruby',              '~> 1.2.1'
 
 group :development do
   gem 'puma',                   '~> 2.8.2'
-  gem 'capistrano',             '~> 3.1.0'
+  gem 'capistrano',             '~> 3.2.1'
   gem 'capistrano-rbenv',       '~> 2.0.2'
   gem 'capistrano-rails',       '~> 1.1.1'
   gem 'capistrano-bundler',     '~> 1.1.2'
