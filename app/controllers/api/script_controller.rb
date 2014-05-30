@@ -1,5 +1,5 @@
 class Api::ScriptController < ApplicationController
   def show
-    render json: Script
+    render json: Script.new
   end
 end
