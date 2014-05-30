@@ -5,14 +5,14 @@ A small rails app for serving up information from [The Big Lebowski](http://en.w
 ## Routes
 
 ```
-[/api/script](http://lebowski.me/api/script)
-[/api/quotes/random](http://lebowski.me/api/quotes/random)
-[/api/quotes/search?term=that+poor+woman](http://lebowski.me/api/quotes/search?term=that+poor+woman)
+/api/script
+/api/quotes/random
+/api/quotes/search?term=that+poor+woman
 /api/quotes/:id
-[/api/lines/search?term=mountain](http://lebowski.me/api/lines/search?term=mountain)
-[/api/lines/random](http://lebowski.me/api/lines/random)
+/api/lines/search?term=mountain
+/api/lines/random
 /api/lines/:id
-[/api/search?term=mountain](http://lebowski.me/api/search?term=mountain) # alias for /api/quotes/search
+/api/search?term=mountain # alias for /api/quotes/search
 ```
 
 ## Using cURL
