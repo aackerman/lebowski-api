@@ -17,16 +17,16 @@ A small rails app for serving up information from [The Big Lebowski](http://en.w
 
 ## Using cURL
 
-```shell
-curl -L http://lebowski.me
+```bash
+$ curl -L http://lebowski.me
 ```
 
 ## CLI client
 
 [lebowski](https://github.com/aackerman/lebowski)
 
-```shell
-npm i -g lebowski
+```bash
+$ npm i -g lebowski
 ```
 
 ## Author
