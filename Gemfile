@@ -1,13 +1,13 @@
 source 'https://rubygems.org'
 
-gem 'rails',                    '4.1.5'
+gem 'rails',                    '4.1.6'
 gem 'rails-api',                '~> 0.2.0'
 gem 'pg',                       '~> 0.17.1'
 gem 'pg_search',                '~> 0.7.3'
 gem 'active_model_serializers', '~> 0.8.1'
 
 group :development do
-  gem 'puma',                   '~> 2.9.0'
+  gem 'puma',                   '~> 2.9.1'
   gem 'capistrano',             '~> 3.2.1'
   gem 'capistrano-rbenv',       '~> 2.0.2'
   gem 'capistrano-rails',       '~> 1.1.1'
