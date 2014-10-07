@@ -1,31 +1,33 @@
-require 'spec_helper'
+require 'rails_helper'
 
-describe Api::LinesController do
+module Api
+  describe LinesController do
 
-  describe '#show' do
-    let(:id) { "1" }
+    describe '#show' do
+      let(:id) { "1" }
 
-    context 'correctly receives an id parameter' do
-      it 'gets the specified line' do
-        expect(Line).to receive(:find).with(id)
-        get :show, { id: id }
+      context 'correctly receives an id parameter' do
+        it 'gets the specified line' do
+          expect(Line).to receive(:find).with(id)
+          get :show, { id: id }
+        end
       end
+
+      context 'receives an id for a non-existent line' do
+        it 'gets the specified line' do
+          expect(Line).to receive(:find).and_raise(ActiveRecord::RecordNotFound)
+          get :show, { id: 9001 }
+        end
+      end
+
     end
 
-    context 'receives an id for a non-existent line' do
-      it 'gets the specified line' do
-        expect(Line).to receive(:find).and_raise(ActiveRecord::RecordNotFound)
-        get :show, { id: 9001 }
+    describe '#random' do
+      it 'gets a random line' do
+        expect(Line).to receive(:random)
+        get :random
       end
     end
 
   end
-
-  describe '#random' do
-    it 'gets a random line' do
-      expect(Line).to receive(:random)
-      get :random
-    end
-  end
-
 end
