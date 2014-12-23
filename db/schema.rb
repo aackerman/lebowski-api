@@ -16,37 +16,37 @@ ActiveRecord::Schema.define(version: 20140807011235) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "actors", force: true do |t|
-    t.string   "first_name"
-    t.string   "last_name"
+  create_table "actors", force: :cascade do |t|
+    t.string   "first_name",   limit: 255
+    t.string   "last_name",    limit: 255
     t.integer  "character_id"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
-  create_table "characters", force: true do |t|
-    t.string   "name"
+  create_table "characters", force: :cascade do |t|
+    t.string   "name",       limit: 255
     t.integer  "actor_id"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
-  create_table "lines", force: true do |t|
+  create_table "lines", force: :cascade do |t|
     t.text     "text",         null: false
     t.integer  "character_id"
     t.datetime "created_at",   null: false
     t.datetime "updated_at",   null: false
   end
 
-  create_table "lines_quotes", id: false, force: true do |t|
+  create_table "lines_quotes", id: false, force: :cascade do |t|
     t.integer "line_id"
     t.integer "quote_id"
   end
 
-  create_table "quotes", force: true do |t|
-    t.string   "image"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+  create_table "quotes", force: :cascade do |t|
+    t.string   "image",      limit: 255
+    t.datetime "created_at",             null: false
+    t.datetime "updated_at",             null: false
   end
 
 end
