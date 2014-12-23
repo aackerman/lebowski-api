@@ -1,5 +1,7 @@
 class Api::SearchController < ApplicationController
   def show
-    render json: QuoteSearch.new(params[:term]).results, root: :results
+    render json: QuoteSerilizer(
+      QuoteSearch.new(params[:term]).results, root: :results
+    ).as_json
   end
 end

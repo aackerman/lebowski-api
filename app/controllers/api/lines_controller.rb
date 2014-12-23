@@ -1,13 +1,19 @@
 class Api::LinesController < ApplicationController
   def show
-    render json: Line.find(params[:id])
+    render json: LineSerializer(
+      Line.find(params[:id])
+    ).as_json
   end
 
   def search
-    render json: LineSearch.new(params[:term]).results, root: :results
+    render json: LineSerializer(
+      LineSearch.new(params[:term]).results, root: :results
+    ).as_json
   end
 
   def random
-    render json: Line.random
+    render json: LineSerializer(
+      Line.random
+    ).as_json
   end
 end
