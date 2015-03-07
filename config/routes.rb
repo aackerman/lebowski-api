@@ -1,4 +1,4 @@
-LebowskiApi::Application.routes.draw do
+Rails.application.routes.draw do
   namespace :api do
     get 'script', to: 'script#show'
     get 'quotes/random', to: 'quotes#random'
