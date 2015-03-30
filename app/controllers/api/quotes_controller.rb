@@ -1,6 +1,6 @@
 class Api::QuotesController < ApplicationController
   def show
-    render json: Quote.find(params[:id])
+    render json: Quote.find(params[:id]), root: :quote
   end
 
   def search
