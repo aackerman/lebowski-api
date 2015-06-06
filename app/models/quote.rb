@@ -4,4 +4,8 @@ class Quote < ActiveRecord::Base
   def self.random
     order('random()').first
   end
+
+  def to_text
+    lines.map(&:to_text).join("\n\n")
+  end
 end

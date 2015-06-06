@@ -7,4 +7,8 @@ class Line < ActiveRecord::Base
   def self.random
     order('random()').first
   end
+
+  def to_text
+    "#{character.name}\n#{text}"
+  end
 end
