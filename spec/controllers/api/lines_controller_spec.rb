@@ -9,14 +9,14 @@ module Api
       context 'correctly receives an id parameter' do
         it 'gets the specified line' do
           expect(Line).to receive(:find).with(id)
-          get :show, { id: id }
+          get :show, { id: id, format: :json }
         end
       end
 
       context 'receives an id for a non-existent line' do
         it 'gets the specified line' do
           expect(Line).to receive(:find).and_raise(ActiveRecord::RecordNotFound)
-          get :show, { id: 9001 }
+          get :show, { id: 9001, format: :json }
         end
       end
 
@@ -25,7 +25,7 @@ module Api
     describe '#random' do
       it 'gets a random line' do
         expect(Line).to receive(:random)
-        get :random
+        get :random, format: :json
       end
     end
 

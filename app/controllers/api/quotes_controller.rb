@@ -1,13 +1,25 @@
 class Api::QuotesController < ApplicationController
   def show
-    render json: Quote.find(params[:id]), root: :quote
+    respond_to do |format|
+      quote = Quote.find(params[:id])
+      format.text { render text: quote.to_text }
+      format.json { render json: quote, root: :quote }
+    end
   end
 
   def search
-    render json: QuoteSearch.new(params[:term]).results, root: :results
+    respond_to do |format|
+      qs = QuoteSearch.new(params[:term])
+      format.text { render text: qs.to_text }
+      format.json { render json: qs.results, root: :results }
+    end
   end
 
   def random
-    render json: Quote.random
+    respond_to do |format|
+      quote = Quote.random
+      format.text { render text: quote.to_text }
+      format.json { render json: quote, root: :quote }
+    end
   end
 end
