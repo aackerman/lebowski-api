@@ -2,7 +2,16 @@ class Api::QuotesController < ApplicationController
   def show
     respond_to do |format|
       quote = Quote.find(params[:id])
-      format.text { render text: quote.to_text }
+      format.text {
+        permalink = url_for({
+          controller: 'api/quotes',
+          action: 'show',
+          id: quote.id,
+          only_path: false,
+          format: :txt
+        })
+        render text: quote.to_text + "\n\n#{permalink}"
+      }
       format.json { render json: quote, root: :quote }
     end
   end
@@ -18,7 +27,16 @@ class Api::QuotesController < ApplicationController
   def random
     respond_to do |format|
       quote = Quote.random
-      format.text { render text: quote.to_text }
+      format.text {
+        permalink = url_for({
+          controller: 'api/quotes',
+          action: 'show',
+          id: quote.id,
+          only_path: false,
+          format: :txt
+        })
+        render text: quote.to_text + "\n\n#{permalink}"
+      }
       format.json { render json: quote, root: :quote }
     end
   end
