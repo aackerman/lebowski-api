@@ -15,6 +15,20 @@ A small rails app for serving up information from [The Big Lebowski](http://en.w
 /api/search?term=mountain # alias for /api/quotes/search
 ```
 
+## Text format
+
+Append `.txt` to several routes to receive a text format
+
+```
+/api/quotes/random.txt
+/api/quotes/search.txt?term=that+poor+woman
+/api/quotes/:id.txt
+/api/lines/search.txt?term=mountain
+/api/lines/random.txt
+/api/lines/:id.txt
+/api/search.txt?term=mountain # alias for /api/quotes/search
+```
+
 ## Using cURL
 
 ```bash

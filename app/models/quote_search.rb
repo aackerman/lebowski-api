@@ -1,18 +1,13 @@
 class QuoteSearch < Search
   def search
-    lines = Line.search(@term).joins(:quotes)
-    if line = lines.sample
-      line.quotes.sample
-    else
-      []
-    end
+    Line.search(@term).includes(:quotes).map(&:quotes).flatten.uniq
   end
 
   def to_text
-    if results
-      results.map(&:to_text).join("\n\n")
+    if results.size > 0
+      results.map(&:to_text).join("\n\n\n\n")
     else
-      ''
+      'Unable to find matching quote'
     end
   end
 end

@@ -3,6 +3,10 @@ class Script
     { script: lines }
   end
 
+  def as_text
+    lines.map {|l| "#{l[:character][:name]}\n#{l[:text]}" }.join "\n\n"
+  end
+
   private
 
   def lines

@@ -4,10 +4,10 @@ class LineSearch < Search
   end
 
   def to_text
-    if results
+    if results.size > 0
       results.map(&:to_text).join("\n\n")
     else
-      ''
+      'Unable to find matching lines'
     end
   end
 end
