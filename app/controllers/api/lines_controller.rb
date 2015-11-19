@@ -18,7 +18,7 @@ class Api::LinesController < ApplicationController
 
   def search
     respond_to do |format|
-      ls = LineSearch.new(params[:term])
+      ls = LineSearch.new(params[:term], params[:character])
       format.text { render text: ls.to_text }
       format.json { render json: ls.results, root: :results }
     end
@@ -26,7 +26,7 @@ class Api::LinesController < ApplicationController
 
   def random
     respond_to do |format|
-      line = Line.random
+      line = Line.random(params[:character])
       format.text {
         permalink = url_for({
           controller: 'api/lines',

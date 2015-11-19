@@ -4,8 +4,12 @@ class Line < ActiveRecord::Base
   belongs_to :character
   has_and_belongs_to_many :quotes
 
-  def self.random
-    order('random()').first
+  def self.random(character)
+    if character
+      includes(:character).where(characters: { name: character }).order('random()').first
+    else
+      order('random()').first
+    end
   end
 
   def to_text

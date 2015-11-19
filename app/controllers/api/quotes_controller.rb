@@ -18,7 +18,7 @@ class Api::QuotesController < ApplicationController
 
   def search
     respond_to do |format|
-      qs = QuoteSearch.new(params[:term])
+      qs = QuoteSearch.new(params[:term], params[:character])
       format.text { render text: qs.to_text }
       format.json { render json: qs.results, root: :results }
     end
@@ -26,7 +26,7 @@ class Api::QuotesController < ApplicationController
 
   def random
     respond_to do |format|
-      quote = Quote.random
+      quote = Quote.random(params[:character])
       format.text {
         permalink = url_for({
           controller: 'api/quotes',

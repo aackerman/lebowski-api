@@ -1,6 +1,15 @@
 class LineSearch < Search
   def search
-    Line.search(@term)
+    if !@term.empty?
+      query = Line.search(@term)
+      if @character
+        query = query.includes(:character).where(characters: { name: @character })
+      end
+    elsif @character
+      query = Line.includes(:character).where(characters: { name: @character })
+    end
+
+    query
   end
 
   def to_text
