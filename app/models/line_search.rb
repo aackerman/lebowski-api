@@ -3,7 +3,7 @@ class LineSearch < Search
     if !@term.empty?
       query = Line.search(@term)
       if @character
-        query = query.includes(:character).where(characters: { name: @character })
+        query = query.joins(:character).where(characters: { name: @character })
       end
     elsif @character
       query = Line.includes(:character).where(characters: { name: @character })
