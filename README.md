@@ -29,6 +29,15 @@ Append `.txt` to several routes to receive a text format
 /api/search.txt?term=mountain # alias for /api/quotes/search
 ```
 
+## Random quotes and searching by character name
+
+```
+/api/quotes/random.txt?character=Bunny
+/api/quotes/random.txt?character=The+Dude
+/api/lines/random.txt?character=The+Dude
+/api/lines/search.txt?term=objects&character=The+Dude
+```
+
 ## Using cURL
 
 ```bash
