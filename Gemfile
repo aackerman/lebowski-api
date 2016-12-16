@@ -6,6 +6,7 @@ gem 'pg',                       '~> 0.17.1'
 gem 'pg_search',                '~> 0.7.3'
 gem 'active_model_serializers', '~> 0.8.1'
 gem 'responders',               '~> 2.1.0'
+gem 'rack-cors',                '~> 0.4.0', :require => 'rack/cors'
 
 group :development do
   gem 'puma',                   '~> 2.9.1'
