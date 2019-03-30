@@ -9,6 +9,6 @@ gem 'rack-cors',                '~> 1.0', '>= 1.0.3', require: 'rack/cors'
 gem 'puma',                     '~> 3.12.1'
 
 group :test do
-  gem 'rspec',                  '~> 3.1.0'
-  gem 'rspec-rails',            '~> 3.1.0'
+  gem 'rspec', '~> 3.8'
+  gem 'rspec-rails', '~> 3.8', '>= 3.8.2'
 end
