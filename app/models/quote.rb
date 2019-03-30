@@ -4,9 +4,9 @@ class Quote < ActiveRecord::Base
 
   def self.random(character)
     if character
-      includes(:characters).where(characters: { name: character }).order('random()').first
+      includes(:characters).where(characters: { name: character }).order(Arel.sql('random()')).first
     else
-      order('random()').first
+      order(Arel.sql('random()')).first
     end
   end
 

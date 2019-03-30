@@ -1,0 +1,6 @@
+.git
+.dockerignore
+build.sh
+DEPLOY.md
+Capfile
+.travis.yml

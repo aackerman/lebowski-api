@@ -1,4 +1,4 @@
-class UpdateLine53 < ActiveRecord::Migration
+class UpdateLine53 < ActiveRecord::Migration[4.2]
   def up
     execute <<-SQL
       update lines

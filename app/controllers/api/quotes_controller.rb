@@ -10,7 +10,7 @@ class Api::QuotesController < ApplicationController
           only_path: false,
           format: :txt
         })
-        render text: quote.to_text + "\n\n#{permalink}"
+        render plain: quote.to_text + "\n\n#{permalink}"
       }
       format.json { render json: quote, root: :quote }
     end
@@ -19,7 +19,7 @@ class Api::QuotesController < ApplicationController
   def search
     respond_to do |format|
       qs = QuoteSearch.new(params[:term], params[:character])
-      format.text { render text: qs.to_text }
+      format.text { render plain: qs.to_text }
       format.json { render json: qs.results, root: :results }
     end
   end
@@ -35,7 +35,7 @@ class Api::QuotesController < ApplicationController
           only_path: false,
           format: :txt
         })
-        render text: quote.to_text + "\n\n#{permalink}"
+        render plain: quote.to_text + "\n\n#{permalink}"
       }
       format.json { render json: quote, root: :quote }
     end

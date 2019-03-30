@@ -1,4 +1,4 @@
-class CreateLinesQuotes < ActiveRecord::Migration
+class CreateLinesQuotes < ActiveRecord::Migration[4.2]
   def up
     create_table :lines_quotes, id: false do |t|
       t.integer :line_id
