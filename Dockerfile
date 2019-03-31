@@ -4,4 +4,4 @@ ADD . /app
 WORKDIR /app
 RUN bundle install
 EXPOSE 3000
-ENTRYPOINT ["./production.sh"]
+ENTRYPOINT ["/bin/sh", "production.sh"]
