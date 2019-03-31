@@ -10,10 +10,15 @@ services:
     volumes:
       - pgdata:/var/lib/postgresql/data
   api:
-    image: ruby:2.6.2-stretch
+    image: aackerman/lebowski-api
+    entrypoint:
+      - /bin/sh
+      - production.sh
     volumes:
       - .:/app
     ports:
       - '3000:3000'
+    depends_on:
+      - postgres
 volumes:
   pgdata:
