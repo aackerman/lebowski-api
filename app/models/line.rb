@@ -6,9 +6,9 @@ class Line < ActiveRecord::Base
 
   def self.random(character)
     if character
-      includes(:character).where(characters: { name: character }).order('random()').first
+      includes(:character).where(characters: { name: character }).order(Arel.sql('random()')).first
     else
-      order('random()').first
+      order(Arel.sql('random()')).first
     end
   end
 

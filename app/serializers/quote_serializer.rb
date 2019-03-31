@@ -3,6 +3,6 @@ class QuoteSerializer < ApplicationSerializer
   has_many :lines
 
   def lines
-    object.lines.includes(:character).order("id ASC")
+    object.lines.includes(:character, :quotes).order(Arel.sql("id ASC"))
   end
 end

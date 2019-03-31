@@ -1,4 +1,4 @@
-class UpdateTenderMyResignation < ActiveRecord::Migration
+class UpdateTenderMyResignation < ActiveRecord::Migration[4.2]
   def change
     execute <<-SQL
       update lines

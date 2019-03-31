@@ -1,9 +1,10 @@
 language: ruby
 rvm:
-  - 2.1.1
-  - 2.1.2
-  - 2.1.3
-  - 2.2.0
+  - 2.6.0
+addons:
+  postgresql: 9.6
+services:
+  - postgresql
 before_script:
   - bundle exec rake db:create
 cache: bundler

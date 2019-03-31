@@ -10,7 +10,7 @@ class Api::LinesController < ApplicationController
           only_path: false,
           format: :txt
         })
-        render text: line.to_text + "\n\n#{permalink}"
+        render plain: line.to_text + "\n\n#{permalink}"
       }
       format.json { render json: line }
     end
@@ -19,7 +19,7 @@ class Api::LinesController < ApplicationController
   def search
     respond_to do |format|
       ls = LineSearch.new(params[:term], params[:character])
-      format.text { render text: ls.to_text }
+      format.text { render plain: ls.to_text }
       format.json { render json: ls.results, root: :results }
     end
   end
@@ -35,7 +35,7 @@ class Api::LinesController < ApplicationController
           only_path: false,
           format: :txt
         })
-        render text: line.to_text + "\n\n#{permalink}"
+        render plain: line.to_text + "\n\n#{permalink}"
       }
       format.json { render json: line, root: :results }
     end

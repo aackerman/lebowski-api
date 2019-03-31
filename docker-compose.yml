@@ -1,0 +1,15 @@
+version: '2'
+services:
+  postgres:
+    image: postgres:9.6.0
+    environment:
+      POSTGRES_USER: lebowski
+      POSTGRES_PASSWORD: password
+    ports:
+      - '5432:5432'
+  api:
+    image: aackerman/lebowski-api
+    ports:
+      - '3000:3000'
+    depends_on:
+      - postgres

@@ -11,7 +11,7 @@ class Script
 
   def lines
     Rails.cache.fetch(['script', 'to-json']) do
-      Line.includes(:character, :quotes).order('id ASC').map { |l|
+      Line.includes(:character, :quotes).order(Arel.sql('id ASC')).map { |l|
         LineSerializer.new(l, root: false)
       }.as_json
     end
