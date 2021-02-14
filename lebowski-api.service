@@ -2,19 +2,20 @@
 Description=Service container starter
 After=snap.docker.dockerd.service network-online.target
 Requires=snap.docker.dockerd.service network-online.target
+StartLimitIntervalSec=0
 
 [Service]
 WorkingDirectory=/apps/lebowski-api
-Type=oneshot
-RemainAfterExit=yes
+Restart=always
+RestartSec=30
 
-ExecStartPre=-/usr/local/bin/docker-compose pull --quiet
-ExecStart=/usr/local/bin/docker-compose up -d --renew-anon-volumes
-
-ExecStop=/usr/local/bin/docker-compose down
-
-ExecReload=/usr/local/bin/docker-compose pull --quiet
-ExecReload=/usr/local/bin/docker-compose up -d --renew-anon-volumes
+ExecStartPre=/usr/local/bin/docker-compose down -v
+ExecStartPre=/usr/local/bin/docker-compose rm -fv
+ExecStartPre=-/bin/bash -c 'docker volume ls -qf "name=%i_" | xargs docker volume rm'
+ExecStartPre=-/bin/bash -c 'docker network ls -qf "name=%i_" | xargs docker network rm'
+ExecStartPre=-/bin/bash -c 'docker ps -aqf "name=%i_*" | xargs docker rm'
+ExecStart=/usr/local/bin/docker-compose up --abort-on-container-exit --renew-anon-volumes
+ExecStop=/usr/local/bin/docker-compose down -v
 
 [Install]
 WantedBy=multi-user.target
